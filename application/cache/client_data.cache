@@ -1,0 +1,353 @@
+a:9:{s:8:"uri_root";s:22:"http://localhost/ntcn/";s:5:"_meta";a:3:{s:5:"title";s:7:"default";s:8:"keywords";s:0:"";s:11:"description";s:0:"";}s:6:"banner";a:9:{i:0;O:8:"stdClass":11:{s:2:"id";s:1:"1";s:4:"name";s:9:"Time line";s:8:"position";s:5:"bntop";s:4:"page";s:3:"all";s:5:"image";s:30:"uploads/banners/top-banner.jpg";s:5:"width";s:0:"";s:6:"height";s:0:"";s:3:"url";s:0:"";s:6:"active";s:3:"yes";s:5:"order";s:1:"0";s:12:"created_date";N;}i:1;O:8:"stdClass":11:{s:2:"id";s:1:"2";s:4:"name";s:12:"Nokia_gia_re";s:8:"position";s:7:"sliderb";s:4:"page";s:3:"all";s:5:"image";s:39:"uploads/banners/nokia-111918-020714.png";s:5:"width";s:0:"";s:6:"height";s:0:"";s:3:"url";s:0:"";s:6:"active";s:3:"yes";s:5:"order";s:1:"0";s:12:"created_date";N;}i:2;O:8:"stdClass":11:{s:2:"id";s:1:"5";s:4:"name";s:1:"3";s:8:"position";s:6:"slider";s:4:"page";s:3:"all";s:5:"image";s:35:"uploads/banners/2-044630-030215.jpg";s:5:"width";s:0:"";s:6:"height";s:0:"";s:3:"url";s:0:"";s:6:"active";s:3:"yes";s:5:"order";s:1:"0";s:12:"created_date";N;}i:3;O:8:"stdClass":11:{s:2:"id";s:1:"6";s:4:"name";s:1:"2";s:8:"position";s:6:"slider";s:4:"page";s:3:"all";s:5:"image";s:35:"uploads/banners/1-044615-030215.jpg";s:5:"width";s:0:"";s:6:"height";s:0:"";s:3:"url";s:0:"";s:6:"active";s:3:"yes";s:5:"order";s:1:"0";s:12:"created_date";N;}i:4;O:8:"stdClass":11:{s:2:"id";s:1:"7";s:4:"name";s:1:"1";s:8:"position";s:6:"slider";s:4:"page";s:3:"all";s:5:"image";s:35:"uploads/banners/3-044558-030215.jpg";s:5:"width";s:0:"";s:6:"height";s:0:"";s:3:"url";s:0:"";s:6:"active";s:3:"yes";s:5:"order";s:1:"0";s:12:"created_date";N;}i:5;O:8:"stdClass":11:{s:2:"id";s:1:"8";s:4:"name";s:6:"Demo 1";s:8:"position";s:7:"sliderr";s:4:"page";s:3:"all";s:5:"image";s:49:"uploads/banners/mc-right-banner-112305-240614.png";s:5:"width";s:0:"";s:6:"height";s:0:"";s:3:"url";s:0:"";s:6:"active";s:3:"yes";s:5:"order";s:1:"0";s:12:"created_date";N;}i:6;O:8:"stdClass":11:{s:2:"id";s:1:"9";s:4:"name";s:6:"Demo 2";s:8:"position";s:7:"sliderr";s:4:"page";s:3:"all";s:5:"image";s:44:"uploads/banners/untitled-1-111853-020714.jpg";s:5:"width";s:0:"";s:6:"height";s:0:"";s:3:"url";s:0:"";s:6:"active";s:3:"yes";s:5:"order";s:1:"0";s:12:"created_date";N;}i:7;O:8:"stdClass":11:{s:2:"id";s:2:"10";s:4:"name";s:11:"Bino_gia_re";s:8:"position";s:7:"sliderb";s:4:"page";s:3:"all";s:5:"image";s:38:"uploads/banners/bino-112017-020714.png";s:5:"width";s:0:"";s:6:"height";s:0:"";s:3:"url";s:0:"";s:6:"active";s:3:"yes";s:5:"order";s:1:"0";s:12:"created_date";N;}i:8;O:8:"stdClass":11:{s:2:"id";s:2:"11";s:4:"name";s:7:"Hotline";s:8:"position";s:7:"hotline";s:4:"page";s:3:"all";s:5:"image";s:41:"uploads/banners/hotline-101617-150714.png";s:5:"width";s:0:"";s:6:"height";s:0:"";s:3:"url";s:0:"";s:6:"active";s:3:"yes";s:5:"order";s:1:"0";s:12:"created_date";N;}}s:12:"thietke_tree";a:15:{i:0;O:8:"stdClass":9:{s:2:"id";s:2:"21";s:3:"pid";s:1:"0";s:4:"name";s:25:"Thiết kế nội thất";s:9:"name_link";s:17:"thiet-ke-noi-that";s:13:"meta_keywords";s:44:"thiết kế nội thất, thiet ke noi that";s:16:"meta_description";s:181:"Thiết kế nội thất, Công ty thiết kế nội thất INHOME tạo ra không gian nội thất sang trọng cho các gia chủ biệt thự, chung cư, nhà hàng, showroom.";s:5:"image";s:59:"uploads/thietke-cat/thiet-ke-phong-khach2-030140-080114.jpg";s:5:"order";s:1:"1";s:6:"active";s:3:"yes";}i:1;O:8:"stdClass":9:{s:2:"id";s:2:"23";s:3:"pid";s:2:"21";s:4:"name";s:35:"Thiết kế nội thất chung cư";s:9:"name_link";s:26:"thiet-ke-noi-that-chung-cu";s:13:"meta_keywords";s:63:"Thiết kế nội thất chung cư, thiet ke noi that chung cu";s:16:"meta_description";s:204:"Thiết kế nội thất chung cư, thiết kế nội thất Căn Hộ Chung Cư cao cấp, Căn Hộ mẫu sang trọng, theo phong cách riêng, tạo sự KHÁC BIỆT, ĐẲNG CẤP và SANG TRỌNG";s:5:"image";s:59:"uploads/thietke-cat/1-phong-bep-an-sanh-3-023742-181113.jpg";s:5:"order";s:1:"4";s:6:"active";s:3:"yes";}i:2;O:8:"stdClass":9:{s:2:"id";s:2:"24";s:3:"pid";s:2:"21";s:4:"name";s:38:"Thiết kế nội thất biệt thự";s:9:"name_link";s:26:"thiet-ke-noi-that-biet-thu";s:13:"meta_keywords";s:66:"Thiết kế nội thất biệt thự, thiet ke noi that biet thu";s:16:"meta_description";s:165:"Thiết kế nội thất biệt thự đẹp tại INHOME, giải pháp tối ưu cho không gian nội thất biệt thự, classic, sang trọng và hiện đại";s:5:"image";s:57:"uploads/thietke-cat/thiet-ke-phong-an-2-125433-251113.jpg";s:5:"order";s:1:"3";s:6:"active";s:3:"yes";}i:3;O:8:"stdClass":9:{s:2:"id";s:2:"25";s:3:"pid";s:2:"21";s:4:"name";s:37:"Thiết kế nội thất văn phòng";s:9:"name_link";s:27:"thiet-ke-noi-that-van-phong";s:13:"meta_keywords";s:66:"thiết kế nội thất văn phòng, thiet ke noi that van phong";s:16:"meta_description";s:236:"Tư vấn thiết kế nội thất văn phòng và thi công nội thất, thiết kế quầy lễ tân, phòng họp, phòng làm việc, INHOME đã phục vụ tốt lượng lớn công ty ở Hà Nội và các tỉnh phía bắc";s:5:"image";s:67:"uploads/thietke-cat/thiet-ke-noi-that-van-phong-8-125538-251113.jpg";s:5:"order";s:1:"2";s:6:"active";s:3:"yes";}i:4;O:8:"stdClass":9:{s:2:"id";s:2:"26";s:3:"pid";s:2:"21";s:4:"name";s:34:"Thiết kế nội thất showroom";s:9:"name_link";s:26:"thiet-ke-noi-that-showroom";s:13:"meta_keywords";s:62:"thiết kế nội thất showroom, thiet ke noi that showroom";s:16:"meta_description";s:176:"INHOME: chuyên Thiết kế nội thất showroom, thiết kế gian hàng đẹp và chuyên nghiệp, thiết kế phòng trưng bày sản phẩm, hội chợ, triển lãm";s:5:"image";s:65:"uploads/thietke-cat/thiet-kenoi-that-showroom-2-123511-291113.jpg";s:5:"order";s:1:"1";s:6:"active";s:3:"yes";}i:5;O:8:"stdClass":9:{s:2:"id";s:2:"38";s:3:"pid";s:2:"21";s:4:"name";s:28:"Thiết kế trường học";s:9:"name_link";s:19:"thiet-ke-truong-hoc";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:69:"uploads/thietke-cat/thumb_85-85/thiet-ke-truong-hoc-092810-190814.jpg";s:5:"order";s:1:"0";s:6:"active";s:3:"yes";}i:6;O:8:"stdClass":9:{s:2:"id";s:2:"34";s:3:"pid";s:2:"21";s:4:"name";s:39:"Thiết kế nội thất nhà chia lô";s:9:"name_link";s:29:"thiet-ke-noi-that-nha-chia-lo";s:13:"meta_keywords";s:70:"Thiết kế nội thất nhà chia lô, thiet ke noi that nha chia lo";s:16:"meta_description";s:167:"Thiết kế nội thất nhà chia lô, thiết kế nội thất nhà lô phố đẹp, phong cách hiện đại, tạo điểm nhấn khác biệt và sang trọng";s:5:"image";s:68:"uploads/thietke-cat/phoi-canh-noi-that-nha-lo-pho1-102953-181213.jpg";s:5:"order";s:1:"0";s:6:"active";s:3:"yes";}i:7;O:8:"stdClass":9:{s:2:"id";s:2:"27";s:3:"pid";s:2:"21";s:4:"name";s:36:"Thiết kế nội thất nhà hàng";s:9:"name_link";s:26:"thiet-ke-noi-that-nha-hang";s:13:"meta_keywords";s:64:"Thiết kế nội thất nhà hàng, thiet ke noi that nha hang";s:16:"meta_description";s:182:"Thiết kế nội thất nhà hàng, thiết kế Nhà Hàng sang trọng, cao cấp với nhiều phong cách Thiết Kế Nội Thất Nhà Hàng Hàn Quốc, Trung Quốc, Nhật";s:5:"image";s:53:"uploads/thietke-cat/nha-hang-nhat-5-124046-291113.jpg";s:5:"order";s:1:"0";s:6:"active";s:3:"yes";}i:8;O:8:"stdClass":9:{s:2:"id";s:2:"22";s:3:"pid";s:1:"0";s:4:"name";s:25:"Thiết kế kiến trúc";s:9:"name_link";s:18:"thiet-ke-kien-truc";s:13:"meta_keywords";s:45:"Thiết kế kiến trúc, thiet ke kien truc";s:16:"meta_description";s:210:"Thiết kế kiến trúc, Thiết kế biệt thự nhà vườn, Thiết kế nhà chia lô, kiến trúc quy hoạch cảnh quan, Thiết kế nhà hàng, Khách sạn, Thiết kế công trình công cộng";s:5:"image";s:66:"uploads/thietke-cat/thiet-ke-biet-thu-linh-dam-3-124440-291113.jpg";s:5:"order";s:1:"0";s:6:"active";s:3:"yes";}i:9;O:8:"stdClass":9:{s:2:"id";s:2:"28";s:3:"pid";s:2:"22";s:4:"name";s:25:"Thiết kế biệt thự";s:9:"name_link";s:17:"thiet-ke-biet-thu";s:13:"meta_keywords";s:44:"Thiết kế biệt thự, thiet ke biet thu";s:16:"meta_description";s:242:"Thiết kế biệt thự, Thiết kế biệt thự đẹp và tư vấn thiết kế mẫu biệt thự đẹp theo phong thủy, phong cách thiết kế biệt thự cổ điển, biệt thự hiện đại, đẳng cấp và sang trọng";s:5:"image";s:65:"uploads/thietke-cat/thiet-ke-biet-thu-don-lap-1-113833-181213.jpg";s:5:"order";s:1:"4";s:6:"active";s:3:"yes";}i:10;O:8:"stdClass":9:{s:2:"id";s:2:"29";s:3:"pid";s:2:"22";s:4:"name";s:25:"Thiết kế nhà vườn";s:9:"name_link";s:17:"thiet-ke-nha-vuon";s:13:"meta_keywords";s:44:"Thiết kế nhà vườn, thiet ke nha vuon";s:16:"meta_description";s:157:"Mẫu thiết kế nhà vườn đẹp, thiết kế kiién trúc biệt thự nhà vườn đẹp, kiến trúc khu resort nghỉ dưỡng đẹp mộng mơ";s:5:"image";s:56:"uploads/thietke-cat/biet-thu-nha-vuon1-103709-181213.jpg";s:5:"order";s:1:"3";s:6:"active";s:3:"yes";}i:11;O:8:"stdClass":9:{s:2:"id";s:2:"30";s:3:"pid";s:2:"22";s:4:"name";s:26:"Thiết kế nhà chia lô";s:9:"name_link";s:20:"thiet-ke-nha-chia-lo";s:13:"meta_keywords";s:48:"Thiết kế nhà chia lô, thiet ke nha chia lo";s:16:"meta_description";s:152:"INHOME thiết kế nhà chia lô, thiết kế nhà lô phố đẹp hàng đầu Việt Nam, với kiến trúc đẹp, hiện đại và sang trọng";s:5:"image";s:57:"uploads/thietke-cat/mat-dung-nha-lo-pho-054155-191213.jpg";s:5:"order";s:1:"2";s:6:"active";s:3:"yes";}i:12;O:8:"stdClass":9:{s:2:"id";s:2:"31";s:3:"pid";s:2:"22";s:4:"name";s:36:"Thiết kế quy hoạch cảnh quan";s:9:"name_link";s:28:"thiet-ke-quy-hoach-canh-quan";s:13:"meta_keywords";s:66:"thiết kế quy hoạch cảnh quan, thiet ke quy hoach canh quan";s:16:"meta_description";s:169:"Thiết kế quy hoạch cảnh quan các công trình công cộng, các khu đô thị mới tại hà nội, quy hoạch lại khu cảnh quan theo nhiều tiêu chí";s:5:"image";s:47:"uploads/thietke-cat/mat-bang2-113234-251113.jpg";s:5:"order";s:1:"1";s:6:"active";s:3:"yes";}i:13;O:8:"stdClass":9:{s:2:"id";s:2:"33";s:3:"pid";s:2:"22";s:4:"name";s:38:"Thiết kế nhà hàng | Khách sạn";s:9:"name_link";s:27:"thiet-ke-nha-hang-khach-san";s:13:"meta_keywords";s:50:"Thiết kế nhà hàng, Thiết kế Khách sạn";s:16:"meta_description";s:303:"Thiết kế nhà hàng, Thiết kế Khách sạn. Nhà hàng khách sạn là cơ sở kinh doanh phục vụ khách nước ngoài và trong nước lưu trú trong thời gian ngắn, đáp ứng nhu cầu về các mặt ăn uống, nghỉ ngơi giải trí và các dịch vụ cần thiết khác";s:5:"image";s:68:"uploads/thietke-cat/3-thite-ke-phong-an-khach-san8-103245-231113.jpg";s:5:"order";s:1:"0";s:6:"active";s:3:"yes";}i:14;O:8:"stdClass":9:{s:2:"id";s:2:"32";s:3:"pid";s:2:"22";s:4:"name";s:38:"Thiết kế công trình công cộng";s:9:"name_link";s:29:"thiet-ke-cong-trinh-cong-cong";s:13:"meta_keywords";s:69:"Thiết kế công trình công cộng, thiet ke cong trinh cong cong";s:16:"meta_description";s:333:"Thiết kế công trình công cộng, thiết kế xây dựng mới hoặc cải tạo các công trình công cộng trong các đô thị, bao gồm các công trình y tế, thể thao, văn hoá, giáo dục, trụ sở cơ quan hành chính các cấp, các công trình dịch vụ công cộng nhằm đảm bảo những y";s:5:"image";s:61:"uploads/thietke-cat/phoi-canh-chung-cu-ct02-091357-201213.jpg";s:5:"order";s:1:"0";s:6:"active";s:3:"yes";}}s:12:"product_tree";a:74:{i:0;O:8:"stdClass":11:{s:2:"id";s:2:"19";s:3:"pid";s:1:"0";s:4:"name";s:26:"Nội thất hiện đại";s:9:"name_link";s:17:"noi-that-hien-dai";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:0:"";s:5:"order";s:1:"1";s:3:"tab";s:1:"1";s:6:"slider";s:1:"1";s:6:"active";s:3:"yes";}i:1;O:8:"stdClass":11:{s:2:"id";s:1:"1";s:3:"pid";s:2:"19";s:4:"name";s:9:"Sofa nỉ";s:9:"name_link";s:7:"sofa-ni";s:13:"meta_keywords";s:4:"Sofa";s:16:"meta_description";s:207:"Sofa, Sofa phong cách cổ điển châu âu thiết kế cầu kỳ, tỉ mỉ đến từng chi tiết để trang trí không gian sang trọng, phong cách đẳng cấp, mẫu sofa do INHOME cung cấp";s:5:"image";s:89:"uploads/product-cat/thumb_85-57/sofa-ni-cho-phong-khach-1-023015-030215-115436-120215.jpg";s:5:"order";s:1:"1";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:2;O:8:"stdClass":11:{s:2:"id";s:2:"29";s:3:"pid";s:2:"19";s:4:"name";s:9:"Sofa gỗ";s:9:"name_link";s:7:"sofa-go";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:57:"uploads/product-cat/sofa-chat-lieu-go-1-012211-240714.jpg";s:5:"order";s:1:"2";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:3;O:8:"stdClass":11:{s:2:"id";s:2:"30";s:3:"pid";s:2:"19";s:4:"name";s:7:"Sofa da";s:9:"name_link";s:7:"sofa-da";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:45:"uploads/product-cat/sofa-da-021146-240714.jpg";s:5:"order";s:1:"3";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:4;O:8:"stdClass":11:{s:2:"id";s:2:"82";s:3:"pid";s:2:"19";s:4:"name";s:9:"Bàn trà";s:9:"name_link";s:7:"ban-tra";s:13:"meta_keywords";s:18:"bàn trà, ban tra";s:16:"meta_description";s:341:"Uống trà là thú ẩm thực khởi đầu những câu chuyện tâm giao của người Việt. Nét văn hóa này không chỉ hấp dẫn nhiều người Việt mà còn thu hút cả người nước ngoài. Những chiếc bàn trà xinh xắn, nhỏ gọn nằm trong bộ thiết kế bàn trà của nội thất INHOME luôn ";s:5:"image";s:82:"uploads/product-cat/thumb_85-57/ban-go-uong-nuoc-1-050348-280814-115549-120215.jpg";s:5:"order";s:1:"4";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:5;O:8:"stdClass":11:{s:2:"id";s:2:"81";s:3:"pid";s:2:"19";s:4:"name";s:5:"Ghế";s:9:"name_link";s:14:"ghe-1408599891";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:79:"uploads/product-cat/thumb_85-85/ghe-002-514fc1cf94630-200x200-124451-210814.jpg";s:5:"order";s:1:"5";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:6;O:8:"stdClass":11:{s:2:"id";s:2:"32";s:3:"pid";s:2:"19";s:4:"name";s:11:"Tủ giầy";s:9:"name_link";s:7:"tu-giay";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:67:"uploads/product-cat/thumb_85-57/tu-dung-giay-dep2-115845-120215.jpg";s:5:"order";s:1:"6";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:7;O:8:"stdClass":11:{s:2:"id";s:2:"33";s:3:"pid";s:2:"19";s:4:"name";s:10:"Tủ bếp";s:9:"name_link";s:6:"tu-bep";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:63:"uploads/product-cat/thiet-ke-tu-bep-a-quyet-1-021537-240714.jpg";s:5:"order";s:1:"7";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:8;O:8:"stdClass":11:{s:2:"id";s:2:"34";s:3:"pid";s:2:"19";s:4:"name";s:13:"Bộ bàn ăn";s:9:"name_link";s:9:"bo-ban-an";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:65:"uploads/product-cat/1-bo-ban-an-go-tu-nhien-soi-021631-240714.jpg";s:5:"order";s:1:"8";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:9;O:8:"stdClass":11:{s:2:"id";s:2:"83";s:3:"pid";s:2:"19";s:4:"name";s:19:"Phòng ngủ đẹp";s:9:"name_link";s:13:"phong-ngu-dep";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:89:"uploads/product-cat/thumb_85-85/phong-ngu-dep-013-514fd6fd7ef93-200x200-021619-210814.jpg";s:5:"order";s:1:"9";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:10;O:8:"stdClass":11:{s:2:"id";s:2:"35";s:3:"pid";s:2:"19";s:4:"name";s:15:"Giường ngủ";s:9:"name_link";s:10:"giuong-ngu";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:58:"uploads/product-cat/mau-giuong-ngu-dep-1-022021-240714.jpg";s:5:"order";s:2:"10";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:11;O:8:"stdClass":11:{s:2:"id";s:2:"36";s:3:"pid";s:2:"19";s:4:"name";s:15:"Tủ quần áo";s:9:"name_link";s:10:"tu-quan-ao";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:60:"uploads/product-cat/tu-quan-ao-go-xoan-dao-022100-240714.jpg";s:5:"order";s:2:"11";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:12;O:8:"stdClass":11:{s:2:"id";s:2:"37";s:3:"pid";s:2:"19";s:4:"name";s:9:"Kệ tivi";s:9:"name_link";s:7:"ke-tivi";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:53:"uploads/product-cat/ke-tivi-bang-go-022149-240714.jpg";s:5:"order";s:2:"12";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:13;O:8:"stdClass":11:{s:2:"id";s:2:"38";s:3:"pid";s:2:"19";s:4:"name";s:14:"Tủ kệ tivi";s:9:"name_link";s:10:"tu-ke-tivi";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:53:"uploads/product-cat/tu-ke-de-tivi-1-022406-240714.jpg";s:5:"order";s:2:"13";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:14;O:8:"stdClass":11:{s:2:"id";s:2:"39";s:3:"pid";s:2:"19";s:4:"name";s:10:"Bàn học";s:9:"name_link";s:7:"ban-hoc";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:85:"uploads/product-cat/thumb_85-57/b-n-h-c-cho-b-5438a4df289bb-200x200-115944-120215.jpg";s:5:"order";s:2:"14";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:15;O:8:"stdClass":11:{s:2:"id";s:2:"40";s:3:"pid";s:2:"19";s:4:"name";s:10:"Giá sách";s:9:"name_link";s:8:"gia-sach";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:84:"uploads/product-cat/thumb_85-57/gia-sach-dep-543ba1f7069b5-200x200-120030-120215.jpg";s:5:"order";s:2:"15";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:16;O:8:"stdClass":11:{s:2:"id";s:2:"44";s:3:"pid";s:2:"19";s:4:"name";s:18:"Bàn trang điểm";s:9:"name_link";s:25:"ban-trang-diem-1423717260";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:88:"uploads/product-cat/thumb_85-57/ban-trang-dien-n-54cb36a009842-200x200-120100-120215.jpg";s:5:"order";s:2:"16";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:17;O:8:"stdClass":11:{s:2:"id";s:2:"45";s:3:"pid";s:2:"19";s:4:"name";s:12:"Tủ rượu";s:9:"name_link";s:18:"tu-ruou-1423717309";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:83:"uploads/product-cat/thumb_85-57/tu-ruou-dep-54bf3940c0f1f-200x200-120149-120215.jpg";s:5:"order";s:2:"17";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:18;O:8:"stdClass":11:{s:2:"id";s:2:"80";s:3:"pid";s:2:"19";s:4:"name";s:9:"Tủ kệ";s:9:"name_link";s:16:"tu-ke-1408518442";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:81:"uploads/product-cat/thumb_85-85/tu-ke-008-51500e365ad6d-200x200-020721-200814.jpg";s:5:"order";s:2:"18";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:19;O:8:"stdClass":11:{s:2:"id";s:2:"46";s:3:"pid";s:2:"19";s:4:"name";s:11:"Tủ lavabo";s:9:"name_link";s:20:"tu-lavabo-1423717378";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:88:"uploads/product-cat/thumb_85-57/tu-lavabo-gia-di-54c9fed7a2cda-200x200-120258-120215.jpg";s:5:"order";s:2:"19";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:20;O:8:"stdClass":11:{s:2:"id";s:2:"20";s:3:"pid";s:1:"0";s:4:"name";s:23:"Nội thất trang trí";s:9:"name_link";s:18:"noi-that-trang-tri";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:0:"";s:5:"order";s:1:"2";s:3:"tab";s:1:"1";s:6:"slider";s:1:"1";s:6:"active";s:3:"yes";}i:21;O:8:"stdClass":11:{s:2:"id";s:2:"17";s:3:"pid";s:2:"20";s:4:"name";s:16:"Vách trang trí";s:9:"name_link";s:14:"vach-trang-tri";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:52:"uploads/product-cat/vach-trang-tri-033009-250714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:22;O:8:"stdClass":11:{s:2:"id";s:2:"18";s:3:"pid";s:2:"20";s:4:"name";s:16:"Đồ trang trí";s:9:"name_link";s:12:"do-trang-tri";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:0:"";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:23;O:8:"stdClass":11:{s:2:"id";s:2:"10";s:3:"pid";s:2:"20";s:4:"name";s:23:"Giá kệ treo tường";s:9:"name_link";s:17:"gia-ke-treo-tuong";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:88:"uploads/product-cat/thumb_85-57/gia-ke-treo-tuon-54113c7680452-200x200-120449-120215.jpg";s:5:"order";s:1:"2";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:24;O:8:"stdClass":11:{s:2:"id";s:1:"8";s:3:"pid";s:2:"20";s:4:"name";s:15:"Kệ trang trí";s:9:"name_link";s:12:"ke-trang-tri";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:88:"uploads/product-cat/thumb_85-57/mau-ke-trang-tri-54d3374972f46-200x200-120558-120215.jpg";s:5:"order";s:1:"4";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:25;O:8:"stdClass":11:{s:2:"id";s:1:"6";s:3:"pid";s:2:"20";s:4:"name";s:15:"Tủ trang trí";s:9:"name_link";s:12:"tu-trang-tri";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:88:"uploads/product-cat/thumb_85-57/tu-trang-tri-pho-54d1e5dbd8a96-200x200-120625-120215.jpg";s:5:"order";s:1:"6";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:26;O:8:"stdClass":11:{s:2:"id";s:2:"21";s:3:"pid";s:1:"0";s:4:"name";s:21:"Nội thất trẻ em";s:9:"name_link";s:15:"noi-that-tre-em";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:0:"";s:5:"order";s:1:"3";s:3:"tab";s:1:"1";s:6:"slider";s:1:"1";s:6:"active";s:3:"yes";}i:27;O:8:"stdClass":11:{s:2:"id";s:2:"48";s:3:"pid";s:2:"21";s:4:"name";s:14:"Giường cũi";s:9:"name_link";s:10:"giuong-cui";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:0:"";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:28;O:8:"stdClass":11:{s:2:"id";s:2:"49";s:3:"pid";s:2:"21";s:4:"name";s:20:"Tủ kệ trang trí";s:9:"name_link";s:15:"tu-ke-trang-tri";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:43:"uploads/product-cat/tu-ke-031738-250714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:29;O:8:"stdClass":11:{s:2:"id";s:2:"50";s:3:"pid";s:2:"21";s:4:"name";s:22:"Phòng trẻ em đẹp";s:9:"name_link";s:16:"phong-tre-em-dep";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:50:"uploads/product-cat/phong-tre-em-031929-250714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:30;O:8:"stdClass":11:{s:2:"id";s:1:"7";s:3:"pid";s:2:"21";s:4:"name";s:16:"Giường tầng";s:9:"name_link";s:11:"giuong-tang";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:49:"uploads/product-cat/giuong-tang-031019-250714.jpg";s:5:"order";s:1:"5";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:31;O:8:"stdClass":11:{s:2:"id";s:2:"22";s:3:"pid";s:1:"0";s:4:"name";s:24:"Nội thất văn phòng";s:9:"name_link";s:18:"noi-that-van-phong";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:0:"";s:5:"order";s:1:"4";s:3:"tab";s:1:"1";s:6:"slider";s:1:"1";s:6:"active";s:3:"yes";}i:32;O:8:"stdClass":11:{s:2:"id";s:2:"13";s:3:"pid";s:2:"22";s:4:"name";s:16:"Bàn làm việc";s:9:"name_link";s:12:"ban-lam-viec";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:50:"uploads/product-cat/ban-lam-viec-025201-250714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:33;O:8:"stdClass":11:{s:2:"id";s:2:"15";s:3:"pid";s:2:"22";s:4:"name";s:17:"Bàn giám đốc";s:9:"name_link";s:12:"ban-giam-doc";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:50:"uploads/product-cat/ban-giam-doc-025106-250714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:34;O:8:"stdClass":11:{s:2:"id";s:2:"16";s:3:"pid";s:2:"22";s:4:"name";s:10:"Bàn họp";s:9:"name_link";s:7:"ban-hop";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:45:"uploads/product-cat/ban-hop-025026-250714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:35;O:8:"stdClass":11:{s:2:"id";s:2:"47";s:3:"pid";s:2:"22";s:4:"name";s:16:"Quầy lễ tân";s:9:"name_link";s:11:"quay-le-tan";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:49:"uploads/product-cat/quay-le-tan-024909-250714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:36;O:8:"stdClass":11:{s:2:"id";s:2:"79";s:3:"pid";s:2:"22";s:4:"name";s:31:"Nội thất văn phòng đẹp";s:9:"name_link";s:22:"noi-that-van-phong-dep";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:94:"uploads/product-cat/thumb_85-85/noi-that-van-phong-003-5150154b7c12c-200x200-110040-200814.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:37;O:8:"stdClass":11:{s:2:"id";s:2:"11";s:3:"pid";s:2:"22";s:4:"name";s:13:"Tủ hồ sơ";s:9:"name_link";s:8:"tu-ho-so";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:46:"uploads/product-cat/tu-ho-so-025253-250714.jpg";s:5:"order";s:1:"1";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:38;O:8:"stdClass":11:{s:2:"id";s:2:"23";s:3:"pid";s:1:"0";s:4:"name";s:20:"Nội thất Classic";s:9:"name_link";s:16:"noi-that-classic";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:0:"";s:5:"order";s:1:"5";s:3:"tab";s:1:"1";s:6:"slider";s:1:"1";s:6:"active";s:3:"yes";}i:39;O:8:"stdClass":11:{s:2:"id";s:2:"52";s:3:"pid";s:2:"23";s:4:"name";s:4:"Sofa";s:9:"name_link";s:4:"sofa";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:42:"uploads/product-cat/sofa-032704-250714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:40;O:8:"stdClass":11:{s:2:"id";s:2:"54";s:3:"pid";s:2:"23";s:4:"name";s:5:"Ghế";s:9:"name_link";s:3:"ghe";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:41:"uploads/product-cat/ghe-044344-250714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:41;O:8:"stdClass":11:{s:2:"id";s:2:"56";s:3:"pid";s:2:"23";s:4:"name";s:15:"Giường ngủ";s:9:"name_link";s:21:"giuong-ngu-1408340684";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:48:"uploads/product-cat/giuong-ngu-044532-250714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:42;O:8:"stdClass":11:{s:2:"id";s:2:"57";s:3:"pid";s:2:"23";s:4:"name";s:9:"Kệ tivi";s:9:"name_link";s:7:"ke-tivi";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:45:"uploads/product-cat/ke-tivi-044652-250714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:43;O:8:"stdClass":11:{s:2:"id";s:2:"58";s:3:"pid";s:2:"23";s:4:"name";s:16:"Bàn làm việc";s:9:"name_link";s:12:"ban-lam-viec";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:50:"uploads/product-cat/ban-lam-viec-050731-250714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:44;O:8:"stdClass":11:{s:2:"id";s:2:"59";s:3:"pid";s:2:"23";s:4:"name";s:15:"Tủ quần áo";s:9:"name_link";s:10:"tu-quan-ao";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:48:"uploads/product-cat/tu-quan-ao-113357-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:45;O:8:"stdClass":11:{s:2:"id";s:2:"60";s:3:"pid";s:2:"23";s:4:"name";s:11:"Tủ lavabo";s:9:"name_link";s:9:"tu-lavabo";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:47:"uploads/product-cat/tu-lavabo-113819-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:46;O:8:"stdClass":11:{s:2:"id";s:2:"61";s:3:"pid";s:2:"23";s:4:"name";s:12:"Tủ rượu";s:9:"name_link";s:7:"tu-ruou";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:45:"uploads/product-cat/tu-ruou-113914-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:47;O:8:"stdClass":11:{s:2:"id";s:2:"62";s:3:"pid";s:2:"23";s:4:"name";s:10:"Tủ sách";s:9:"name_link";s:7:"tu-sach";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:45:"uploads/product-cat/tu-sach-114022-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:48;O:8:"stdClass":11:{s:2:"id";s:2:"63";s:3:"pid";s:2:"23";s:4:"name";s:9:"Tủ kệ";s:9:"name_link";s:5:"tu-ke";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:0:"";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:49;O:8:"stdClass":11:{s:2:"id";s:2:"64";s:3:"pid";s:2:"23";s:4:"name";s:16:"Đồ trang trí";s:9:"name_link";s:12:"do-trang-tri";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:0:"";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:50;O:8:"stdClass":11:{s:2:"id";s:2:"78";s:3:"pid";s:2:"23";s:4:"name";s:7:"Gương";s:9:"name_link";s:5:"guong";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:83:"uploads/product-cat/thumb_85-85/khung-guong-co-dien-111536-120314-110423-120814.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:51;O:8:"stdClass":11:{s:2:"id";s:1:"9";s:3:"pid";s:2:"23";s:4:"name";s:18:"Bàn trang điểm";s:9:"name_link";s:14:"ban-trang-diem";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:52:"uploads/product-cat/ban-trang-diem-043002-250714.jpg";s:5:"order";s:1:"3";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:52;O:8:"stdClass":11:{s:2:"id";s:2:"55";s:3:"pid";s:2:"23";s:4:"name";s:10:"Tủ bếp";s:9:"name_link";s:6:"tu-bep";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:44:"uploads/product-cat/tu-bep-044433-250714.jpg";s:5:"order";s:1:"7";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:53;O:8:"stdClass":11:{s:2:"id";s:2:"53";s:3:"pid";s:2:"23";s:4:"name";s:13:"Bộ bàn ăn";s:9:"name_link";s:9:"bo-ban-an";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:47:"uploads/product-cat/bo-ban-an-044249-250714.jpg";s:5:"order";s:1:"8";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:54;O:8:"stdClass":11:{s:2:"id";s:1:"2";s:3:"pid";s:2:"23";s:4:"name";s:9:"Bàn trà";s:9:"name_link";s:18:"ban-tra-1407552404";s:13:"meta_keywords";s:18:"bàn trà, ban tra";s:16:"meta_description";s:201:"bàn trà phong cách cổ điển nhẹ nhàng quý phái, mang đến vẻ đẹp sang trọng cho phòng khách của bạn, các mẫu bàn trà cổ điển, tân cổ điển do INHOME cung cấp";s:5:"image";s:45:"uploads/product-cat/ban-tra-044113-250714.jpg";s:5:"order";s:2:"10";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:55;O:8:"stdClass":11:{s:2:"id";s:2:"24";s:3:"pid";s:1:"0";s:4:"name";s:25:"Phụ kiện nội thất";s:9:"name_link";s:17:"phu-kien-noi-that";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:0:"";s:5:"order";s:1:"6";s:3:"tab";s:1:"1";s:6:"slider";s:1:"1";s:6:"active";s:3:"yes";}i:56;O:8:"stdClass":11:{s:2:"id";s:1:"4";s:3:"pid";s:2:"24";s:4:"name";s:25:"Phụ kiện sản xuất";s:9:"name_link";s:17:"phu-kien-san-xuat";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:61:"uploads/product-cat/phu-kien-garis-san-xuat-121924-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:57;O:8:"stdClass":11:{s:2:"id";s:2:"27";s:3:"pid";s:1:"4";s:4:"name";s:25:"Hệ thống ray trượt";s:9:"name_link";s:18:"he-thong-ray-truot";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:47:"uploads/product-cat/ray-truot-044657-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:58;O:8:"stdClass":11:{s:2:"id";s:2:"28";s:3:"pid";s:1:"4";s:4:"name";s:10:"Bản lề";s:9:"name_link";s:6:"ban-le";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:61:"uploads/product-cat/phu-kien-garis-san-xuat-041244-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:59;O:8:"stdClass":11:{s:2:"id";s:2:"74";s:3:"pid";s:1:"4";s:4:"name";s:24:"Hệ bánh xe cửa lùa";s:9:"name_link";s:18:"he-banh-xe-cua-lua";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:49:"uploads/product-cat/ray-cua-lua-044841-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:60;O:8:"stdClass":11:{s:2:"id";s:2:"75";s:3:"pid";s:1:"4";s:4:"name";s:58:"Piston, nẹp nhôm, chân tủ bếp, tấm lót tủ ...";s:9:"name_link";s:39:"piston-nep-nhom-chan-tu-bep-tam-lot-tu-";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:44:"uploads/product-cat/piston-045318-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:61;O:8:"stdClass":11:{s:2:"id";s:2:"76";s:3:"pid";s:1:"4";s:4:"name";s:9:"Tay nắm";s:9:"name_link";s:7:"tay-nam";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:45:"uploads/product-cat/tay-nam-045535-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:62;O:8:"stdClass":11:{s:2:"id";s:2:"77";s:3:"pid";s:1:"4";s:4:"name";s:21:"đèn led cảm ứng";s:9:"name_link";s:15:"den-led-cam-ung";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:53:"uploads/product-cat/den-led-cam-ung-045730-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:63;O:8:"stdClass":11:{s:2:"id";s:2:"25";s:3:"pid";s:2:"24";s:4:"name";s:21:"Phụ kiện tủ áo";s:9:"name_link";s:14:"phu-kien-tu-ao";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:52:"uploads/product-cat/phu-kien-tu-ao-120623-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:64;O:8:"stdClass":11:{s:2:"id";s:2:"26";s:3:"pid";s:2:"24";s:4:"name";s:29:"Phụ kiện tủ bếp GARIS";s:9:"name_link";s:21:"phu-kien-tu-bep-garis";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:53:"uploads/product-cat/phu-kien-tu-bep-120340-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:65;O:8:"stdClass":11:{s:2:"id";s:2:"65";s:3:"pid";s:2:"26";s:4:"name";s:28:"Giá xoong nồi, bát đĩa";s:9:"name_link";s:21:"gia-xoong-noi-bat-dia";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:59:"uploads/product-cat/gia-xoong-noi-bat-dia-125754-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:66;O:8:"stdClass":11:{s:2:"id";s:2:"66";s:3:"pid";s:2:"26";s:4:"name";s:29:"Phụ kiện tủ kếp trên";s:9:"name_link";s:20:"phu-kien-tu-kep-tren";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:49:"uploads/product-cat/tu-bep-tren-010001-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:67;O:8:"stdClass":11:{s:2:"id";s:2:"67";s:3:"pid";s:2:"26";s:4:"name";s:14:"Giá treo inox";s:9:"name_link";s:13:"gia-treo-inox";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:52:"uploads/product-cat/gia-treeo-inox-010311-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:68;O:8:"stdClass":11:{s:2:"id";s:2:"68";s:3:"pid";s:2:"26";s:4:"name";s:11:"Thùng rác";s:9:"name_link";s:9:"thung-rac";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:47:"uploads/product-cat/thung-rac-011537-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:69;O:8:"stdClass":11:{s:2:"id";s:2:"69";s:3:"pid";s:2:"26";s:4:"name";s:12:"Thùng gạo";s:9:"name_link";s:9:"thung-gao";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:47:"uploads/product-cat/thung-gao-011754-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:70;O:8:"stdClass":11:{s:2:"id";s:2:"70";s:3:"pid";s:2:"26";s:4:"name";s:13:"Hệ giá kho";s:9:"name_link";s:10:"he-gia-kho";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:45:"uploads/product-cat/gia-kho-040235-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:71;O:8:"stdClass":11:{s:2:"id";s:2:"71";s:3:"pid";s:2:"26";s:4:"name";s:22:"Phụ kiện tủ góc";s:9:"name_link";s:15:"phu-kien-tu-goc";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:44:"uploads/product-cat/tu-goc-040402-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:72;O:8:"stdClass":11:{s:2:"id";s:2:"72";s:3:"pid";s:2:"26";s:4:"name";s:24:"Khay chia cho ngăn kéo";s:9:"name_link";s:22:"khay-chia-cho-ngan-keo";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:47:"uploads/product-cat/khay-chia-040733-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}i:73;O:8:"stdClass":11:{s:2:"id";s:2:"73";s:3:"pid";s:2:"26";s:4:"name";s:26:"Giá chai lọ, dao thớt";s:9:"name_link";s:20:"gia-chai-lo-dao-thot";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:5:"image";s:46:"uploads/product-cat/dao-thot-041021-290714.jpg";s:5:"order";s:1:"0";s:3:"tab";s:1:"0";s:6:"slider";s:1:"0";s:6:"active";s:3:"yes";}}s:8:"lastnews";a:2:{i:0;O:8:"stdClass":4:{s:2:"id";s:2:"49";s:5:"title";s:61:"Biệt thự hoàng gia châu Âu của doanh nhân Sài Gòn";s:10:"title_link";s:49:"biet-thu-hoang-gia-chau-au-cua-doanh-nhan-sai-gon";s:5:"image";s:79:"uploads/news/thumb_177-118/biet-thu-pho-3d-1-1394160276-662x0-051202-110314.jpg";}i:1;O:8:"stdClass":4:{s:2:"id";s:2:"48";s:5:"title";s:50:"Xu hướng phối màu nội thất hiện đại";s:10:"title_link";s:35:"xu-huong-phoi-mau-noi-that-hien-dai";s:5:"image";s:80:"uploads/news/thumb_177-118/nha-pho-hien-dai-2-1393996174-662x0-050422-110314.jpg";}}s:9:"mostviews";a:6:{i:0;O:8:"stdClass":4:{s:2:"id";s:2:"39";s:5:"title";s:32:"Thiết kế trường mầm non";s:10:"title_link";s:23:"thiet-ke-truong-mam-non";s:5:"image";s:67:"uploads/thietke/thumb_250-250/thiet-ke-truong-hoc-023919-250814.JPG";}i:1;O:8:"stdClass":4:{s:2:"id";s:2:"40";s:5:"title";s:25:"Thiết kế khách sạn";s:10:"title_link";s:18:"thiet-ke-khach-san";s:5:"image";s:78:"uploads/thietke/thumb_250-250/3-thite-ke-phong-an-khach-san1-030731-250814.jpg";}i:2;O:8:"stdClass":4:{s:2:"id";s:2:"38";s:5:"title";s:35:"Thiết kế trụ sở làm việc";s:10:"title_link";s:24:"thiet-ke-tru-so-lam-viec";s:5:"image";s:70:"uploads/thietke/thumb_250-250/phoi-canh-phuong-an2-2-025431-250814.jpg";}i:3;O:8:"stdClass":4:{s:2:"id";s:2:"22";s:5:"title";s:25:"Mẫu biệt thự đẹp";s:10:"title_link";s:16:"mau-biet-thu-dep";s:5:"image";s:67:"uploads/thietke/thumb_250-250/thiet-ke-biet-thu-1-023104-250814.jpg";}i:4;O:8:"stdClass":4:{s:2:"id";s:2:"35";s:5:"title";s:20:"Chung cư sinh thái";s:10:"title_link";s:18:"chung-cu-sinh-thai";s:5:"image";s:72:"uploads/thietke/thumb_250-250/phoi-canh-nha-cao-tang-2-024654-250814.jpg";}i:5;O:8:"stdClass":4:{s:2:"id";s:2:"26";s:5:"title";s:24:"Nhà biệt thự đẹp";s:10:"title_link";s:16:"nha-biet-thu-dep";s:5:"image";s:68:"uploads/thietke/thumb_250-250/phoi-canh-biet-thu-1-091733-280814.jpg";}}s:8:"tieubieu";a:1:{i:0;O:8:"stdClass":4:{s:2:"id";s:2:"38";s:5:"title";s:35:"Thiết kế trụ sở làm việc";s:10:"title_link";s:24:"thiet-ke-tru-so-lam-viec";s:5:"image";s:70:"uploads/thietke/thumb_250-250/phoi-canh-phuong-an2-2-025431-250814.jpg";}}s:13:"block_modules";a:8:{s:13:"module_footer";a:2:{i:0;s:18:"Module chân trang";i:1;s:3234:"<div class="grid12-3 column-b1">
+
+	<div class="std">
+
+		<div class="collapsible mobile-collapsible">
+
+			<h6 class="block-title heading">
+
+				LIÊN HỆ</h6>
+
+			<div class="block-content">
+
+				<h3>
+
+					CÔNG TY CỔ PHẦN ĐẦU TƯ KIẾN TRÚC NỘI THẤT CNM</h3>
+
+				Address : NO03-LK107-KĐT Văn Khê - Hà Đông - Hà Nội<br />
+
+				Telephone : (+84) 0961 159 389<br />
+
+				E-mail : contact@noithatcnm.vn</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+<div class="grid12-3 column-b2">
+
+	<div class="std">
+
+		<div class="collapsible mobile-collapsible">
+
+			<h6 class="block-title heading">
+
+				HỖ TRỢ KHÁCH HÀNG</h6>
+
+			<div class="block-content">
+
+				<ul>
+
+					<li>
+
+						<a href=""><span>Câu hỏi thường gặp</span></a></li>
+
+					<li>
+
+						<a href=""><span>Hướng dẫn mua hàng</span></a></li>
+
+					<li>
+
+						<a href=""><span>Phương thức thanh toán</span></a></li>
+
+					<li>
+
+						<a href=""><span>Chính sách giao hàng</span></a></li>
+
+					<li>
+
+						<a href=""><span>Chính sách đổi trả hàng</span></a></li>
+
+					<li>
+
+						<a href=""><span>Hướng dẫn đổi trả hàng</span></a></li>
+
+					<li>
+
+						<a href=""><span>Chính sách bảo hành</span></a></li>
+
+					<li>
+
+						<a href=""><span>Đăng kí nhận bản tin</span></a></li>
+
+				</ul>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+<div class="grid12-3 column-b3">
+
+	<div class="std">
+
+		<div class="collapsible mobile-collapsible">
+
+			<h6 class="block-title heading">
+
+				THÔNG TIN CHUNG</h6>
+
+			<div class="block-content">
+
+				<ul>
+
+					<li>
+
+						<a href=""><span>Về NOITHATCNM </span></a></li>
+
+					<li>
+
+						<a href=""><span>Thông cáo báo chí</span></a></li>
+
+					<li>
+
+						<a href=""><span>Thông tin tuyển dụng</span></a></li>
+
+					<li>
+
+						<a href=""><span>Chính sách bảo vệ thông tin cá nhân</span></a></li>
+
+					<li>
+
+						<a href=""><span>Điều khoản Sử dụng và Mua hàng</span></a></li>
+
+					<li>
+
+						<a href=""><span>Liên hệ</span></a></li>
+
+				</ul>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+<div class="grid12-3 column-b4">
+
+	<div class="std">
+
+		<div class="collapsible mobile-collapsible">
+
+			<div class="block-content" style="margin-left: 21px;">
+
+				<div class="grid12-12">
+
+					<h6 class="block-title heading" style="text-align: left;">
+
+						HỆ THỐNG NOITHATCNM&nbsp; ONLINE</h6>
+
+					<p>
+
+						Facebook, Youtube, Zalo ...</p>
+
+<!-- Histats.com  START  (standard)--><script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>					<a href="http://www.histats.com" target="_blank" title=""><script  type="text/javascript" >
+
+
+
+
+
+
+
+try {Histats.start(1,2741725,4,236,241,20,"00011111");
+
+
+
+
+
+
+
+Histats.track_hits();} catch(err){};
+
+
+
+
+
+
+
+</script></a> <noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?2741725&101" alt="" border="0"></a></noscript><!-- Histats.com  END  --></div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+<div class="copyright">
+
+	COPYRIGHT © NOITHATCNM 2016</div>
+
+";}s:10:"module_top";a:2:{i:0;s:10:"Module Top";i:1;s:364:"<div>
+
+	NOITHATCNM |&nbsp; ĐƠN VỊ THIẾT KẾ NỘI THẤT - KIẾN TRÚC CAO CẤP HÀNG ĐẦU</div>
+
+<div style="font-size:11px">
+
+	Địa chỉ : NO03-LK107-KĐT Văn Khê - Hà Đông - Hà Nội</div>
+
+<div style="font-size:11px">
+
+	<span style="font-size: 8pt;">Đại diện công ty &nbsp; &nbsp; &nbsp; &nbsp;Mr.Cương : 0961 159 389</span></div>
+
+";}s:14:"module_hotront";a:2:{i:0;s:25:"Hỗ trợ trực tuyến";i:1;s:607:"<table _mce_new="1" border="0" style="width: 350px;">
+
+	<tbody>
+
+		<tr>
+
+			<td>
+
+				<a href="ymsgr:SendIM?ngan0982256781" rel="nofollow"> <img src="http://opi.yahoo.com/online?u=ngan0982256781&amp;m=g&amp;t=2&amp;l=us" /> </a></td>
+
+		</tr>
+
+		<tr>
+
+			<td>
+
+				<a href="skype:ngan.nv?chat"><img alt="My status" src="http://mystatus.skype.com/smallclassic/ngan.nv" /></a></td>
+
+		</tr>
+
+		<tr>
+
+			<td>
+
+				<strong>Mr. Cương: <span style="font-size:12px;"><span style="color: rgb(255, 0, 0);">0961 159 389</span></span></strong></td>
+
+		</tr>
+
+	</tbody>
+
+</table>
+
+<p>
+
+	&nbsp;</p>
+
+";}s:12:"module_hotro";a:2:{i:0;s:25:"Hỗ trợ trực tuyến";i:1;s:607:"<table _mce_new="1" border="0" style="width: 350px;">
+
+	<tbody>
+
+		<tr>
+
+			<td>
+
+				<a href="ymsgr:SendIM?ngan0982256781" rel="nofollow"> <img src="http://opi.yahoo.com/online?u=ngan0982256781&amp;m=g&amp;t=2&amp;l=us" /> </a></td>
+
+		</tr>
+
+		<tr>
+
+			<td>
+
+				<a href="skype:ngan.nv?chat"><img alt="My status" src="http://mystatus.skype.com/smallclassic/ngan.nv" /></a></td>
+
+		</tr>
+
+		<tr>
+
+			<td>
+
+				<strong>Mr. Cương: <span style="font-size:12px;"><span style="color: rgb(255, 0, 0);">0961 159 389</span></span></strong></td>
+
+		</tr>
+
+	</tbody>
+
+</table>
+
+<p>
+
+	&nbsp;</p>
+
+";}s:13:"module_doitac";a:2:{i:0;s:28:"Đối tác của NoithatCNM";i:1;s:2952:"<table border="0" cellpadding="0" cellspacing="0" data-original="" style="width: 100%;">
+
+	<tbody>
+
+		<tr>
+
+			<td>
+
+				<a href="http://eurowindow.biz" rel="nofollow" target="_blank" title="eurowindow"><img alt="eurowindow" class="lazy" data-original="/uploads/images/doi-tac/1.jpg" src="/uploads/images/doi-tac/1.jpg" style="width: 176px; height: 100px;" /></a></td>
+
+			<td style="text-align: right;">
+
+				<a href="http://viet-home.vn/" rel="nofollow" target="_blank" title="viet home"><img alt="viet home" class="lazy" data-original="/uploads/images/doi-tac/2.jpg" src="/uploads/images/doi-tac/2.jpg" style="width: 176px; height: 100px;" /></a></td>
+
+		</tr>
+
+		<tr>
+
+			<td>
+
+				<a href="http://www.hafele.com.vn" rel="nofollow" target="_blank" title="hafele"><img alt="hafele" class="lazy" data-original="/uploads/images/doi-tac/4.jpg" src="/uploads/images/doi-tac/4.jpg" style="width: 176px; height: 100px;" /></a></td>
+
+			<td style="text-align: right;">
+
+				<a href="http://hoangvan.vn/" rel="nofollow" target="_blank" title="hoang van"><img alt="hoang van" class="lazy" data-original="/uploads/images/doi-tac/3.jpg" src="/uploads/images/doi-tac/3.jpg" style="width: 176px; height: 100px;" /></a></td>
+
+		</tr>
+
+		<tr>
+
+			<td>
+
+				<a href="http://ancuong.com" rel="nofollow" target="_blank" title="an cuong"><img alt="an cuong" class="lazy" data-original="/uploads/images/doi-tac/5.jpg" src="/uploads/images/doi-tac/5.jpg" style="width: 176px; height: 100px;" /></a></td>
+
+			<td style="text-align: right;">
+
+				<a href="http://sangosonlam.com/" rel="nofollow" target="_blank" title="san go"><img alt="san go" class="lazy" data-original="/uploads/images/doi-tac/9.jpg" src="/uploads/images/doi-tac/9.jpg" style="width: 176px; height: 100px;" /></a></td>
+
+		</tr>
+
+		<tr>
+
+			<td>
+
+				<a href="http://gomvietcatlinh.vn/" rel="nofollow" target="_blank" title="gom viet"><img alt="gom viet" class="lazy" data-original="/uploads/images/doi-tac/6.jpg" src="/uploads/images/doi-tac/6.jpg" style="width: 176px; height: 100px;" /></a></td>
+
+			<td style="text-align: right;">
+
+				<a href="http://giaydantuongjapan.com" target="_blank" title="giay dan tuong"><img alt="giay dan tuong" class="lazy" data-original="/uploads/images/doi-tac/8.jpg" src="/uploads/images/doi-tac/8.jpg" style="width: 176px; height: 100px;" /></a></td>
+
+		</tr>
+
+		<tr>
+
+			<td>
+
+				<a href="http://phaochi.vn/" rel="nofollow" target="_blank" title="phao chi"><img alt="phao chi" class="lazy" data-original="/uploads/images/doi-tac/10.jpg" src="/uploads/images/doi-tac/10.jpg" style="width: 176px; height: 100px;" /></a></td>
+
+			<td style="text-align: right;">
+
+				<a href="http://www.blum.com/" rel="nofollow" target="_blank" title="blum"><img alt="blum" class="lazy" data-original="/uploads/images/doi-tac/7.jpg" src="/uploads/images/doi-tac/7.jpg" style="width: 176px; height: 100px;" /></a></td>
+
+		</tr>
+
+	</tbody>
+
+</table>
+
+";}s:13:"module_r_menu";a:2:{i:0;s:31:"Module cạnh menu Thiết kế";i:1;s:45:"<p>
+
+	Module cạnh menu Thiết kế</p>
+
+";}s:13:"module_r_else";a:2:{i:0;s:19:"Module cột phải";i:1;s:33:"<p>
+
+	Module cột phải</p>
+
+";}s:16:"module_r_noithat";a:2:{i:0;s:34:"Module cột phải - Nội thất";i:1;s:48:"<p>
+
+	Module cột phải - Nội thất</p>
+
+";}}}

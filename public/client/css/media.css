@@ -1,0 +1,722 @@
+/******************************************************************
+Site Name:
+Author:
+
+Stylesheet: Main Stylesheet
+
+Here's where the magic happens. Here, you'll see we are calling in
+the separate media queries. The base mobile goes outside any query
+and is called at the beginning, after that we call the rest
+of the styles inside media queries.
+
+Helpful articles on Sass file organization:
+http://thesassway.com/advanced/modular-css-naming-conventions
+
+******************************************************************/
+/*********************
+IMPORTING PARTIALS
+These files are needed at the beginning so that we establish all
+our mixins, functions, and variables that we'll be using across
+the whole project.
+*********************/
+/*********************
+IMPORTING MODULES
+Modules are reusable blocks or elements we use throughout the project.
+We can break them up as much as we want or just keep them all in one.
+I mean, you can do whatever you want. The world is your oyster. Unless
+you hate oysters, then the world is your peanut butter & jelly sandwich.
+*********************/
+/*********************
+BASE (MOBILE) SIZE
+This are the mobile styles. It's what people see on their phones. If
+you set a great foundation, you won't need to add too many styles in
+the other stylesheets. Remember, keep it light: Speed is Important.
+*********************/
+@media only screen and (max-width: 320px) {
+  /************** INDEX PAGE ****************/
+  .product-view .product-shop .product-name h1 {
+    font-size: 13px;
+    margin: 3px 0 0;
+  }
+  .product-head .product-brand {
+    width: 23%;
+    margin-right: 2%;
+  }
+  .logo_master_cart img {
+    width: 70px;
+  }
+  .product-view .price-box .price {
+    line-height: 20px;
+  }
+  .product-view .product-type-data .price-box span.regular-price .price,
+  .product-view .price-box .special-price .price {
+    font-size: 24px;
+  }
+  .ensure .col_bg {
+    width: 50%;
+  }
+  .box_search_newdes {
+    padding-top: 10px;
+  }
+  .last.contact > img {
+    margin-top: 10px;
+  }
+  .middle_head .button_search span {
+    font-size: 9px;
+  }
+  ul.products-grid li {
+    max-width: 286px !important;
+    width: 286px !important;
+  }
+  #category-slider .controls .title {
+    left: 20px !important;
+  }
+  #category-slider .itemslider ul.slides li.item {
+    width: 112px !important;
+  }
+  .product-slider-container .controls .title {
+    font-size: 15px;
+  }
+  /************ CATEGORY PAGE *****************/
+  .main-container .price-range-list > ul {
+    width: 100% !important;
+  }
+  .main-container .price-range-list > ul li {
+    margin: 5px 0px;
+    width: 100% !important;
+  }
+  /************** CART PAGE ****************/
+  .cart .page-title h1 {
+    font-size: 1.5em !important;
+  }
+  .cart .page-title .title-buttons {
+    border-bottom: 1px solid #E5E5E5;
+  }
+  .cart .totals-inner {
+    background-color: #FFFFFF;
+  }
+  .cart .col-img img {
+    max-width: 60px !important;
+  }
+  .cart .product-name {
+    margin-left: 30px !important;
+  }
+  /** butoons **/
+  button.button span {
+    border-radius: 5px;
+  }
+  button.btn-checkout span span {
+    height: 20px;
+    padding-top: 13px !important;
+  }
+  .totals-inner button.button span span {
+    line-height: 12px;
+  }
+  /** background**/
+  .main.container.show-bg {
+    background-color: #FFFFFF;
+  }
+  /** table items **/
+  .cart-table-wrapper .data-table tr {
+    width: 310px !important;
+  }
+  .cart-table-wrapper .col-img .product-image {
+    text-align: center;
+    margin-left: 25px;
+  }
+  .cart-table-wrapper .product-name > a {
+    font-size: 12px !important;
+  }
+  .cart-table-wrapper .col-img {
+    margin-left: 30px;
+  }
+  .cart-table-wrapper .a-center {
+    float: left;
+    width: 20% !important;
+    margin-left: 30px;
+  }
+  .cart-table-wrapper .a-center select {
+    border-radius: 5px !important;
+  }
+  .cart-table-wrapper .col-total {
+    float: left;
+    width: 30% !important;
+  }
+  .cart .data-table tr,
+  .my-wishlist .data-table tr,
+  .my-account .data-table tr,
+  .order-review .data-table tr {
+    border-bottom: 1px solid #E5E5E5 !important;
+    padding-bottom: 70px !important;
+  }
+  /*#search_mini_form .form-search select{*/
+  /*    width: 140px;*/
+  /*}*/
+  .middle_head {
+    width: 100%;
+    min-width: 100%;
+  }
+  .products-grid .item .purchase .price-box,
+  .products-grid .item .purchase .buttons {
+    display: block;
+    vertical-align: middle;
+    width: 50%;
+  }
+  .products-grid .item .purchase {
+    padding-left: 30px;
+  }
+  .product-slider-container .content .itemslider .item:hover {
+    background-color: #F4BDBC;
+    height: 262px !important;
+  }
+  .itemslider-wrapper .item-wrapper {
+    height: 262px !important;
+  }
+  /**** DETAILS ******/
+  .box-description iframe {
+    max-width: 224px !important;
+    max-height: 224px !important;
+  }
+}
+@media only screen and (min-width: 321px) and (max-width: 480px) {
+  /* Styles */
+  /************ INDEX *****************/
+  /************ CATEGORY *****************/
+  /************ DETAILS ************/
+  .box-description iframe {
+    max-width: 373px !important;
+    max-height: 373px !important;
+  }
+}
+/*********************
+LARGER MOBILE DEVICES
+This is for devices like the Galaxy Note or something that's
+larger than an iPhone but smaller than a tablet. Let's call them
+tweeners.
+*********************/
+@media only screen and (min-width: 481px) and (max-width: 568px) {
+  /******************************************************************
+Site Name:
+Author:
+
+Stylesheet: 481px and Up Stylesheet
+
+This stylesheet is loaded for larger devices. It's set to
+481px because at 480px it would load on a landscaped iPhone.
+This isn't ideal because then you would be loading all those
+extra styles on that same mobile connection.
+
+A word of warning. This size COULD be a larger mobile device,
+so you still want to keep it pretty light and simply expand
+upon your base.scss styles.
+
+******************************************************************/
+  /*******************
+PRODUCT LIST
+*******************/
+  /*********** CATEGORY ***************/
+  /************ DETAILS ************/
+  .box-description iframe {
+    max-width: 456px !important;
+    max-height: 456px !important;
+  }
+}
+@media only screen and (min-width: 600px) and (max-width: 800px) {
+  /******************************************************************
+Site Name:
+Author:
+
+Stylesheet: Tablet & Small Desktop Stylesheet
+
+Here's where you can start getting into the good stuff.
+This size will work on iPads, other tablets, and desktops.
+So you can start working with more styles, background images,
+and other resources. You'll also notice the grid starts to
+come into play. Have fun!
+
+******************************************************************/
+  /*******************
+INDEX
+*******************/
+}
+/*********************
+TABLET & SMALLER LAPTOPS
+This is the average viewing window. So Desktops, Laptops, and
+in general anyone not viewing on a mobile device. Here's where
+you can add resource intensive styles.
+*********************/
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  /******************************************************************
+Site Name:
+Author:
+
+Stylesheet: Tablet & Small Desktop Stylesheet
+
+Here's where you can start getting into the good stuff.
+This size will work on iPads, other tablets, and desktops.
+So you can start working with more styles, background images,
+and other resources. You'll also notice the grid starts to
+come into play. Have fun!
+
+******************************************************************/
+  /******** HEADER SLIDER *********/
+  .product-solo-slider-container {
+    background-size: contain !important;
+    height: 222px !important;
+  }
+  .slideshow-sidebar .satmp_solo {
+    width: 184px;
+    height: 190px;
+    margin-top: -26%;
+  }
+  .slideshow-sidebar .satmp_solo img {
+    margin-left: 0%;
+    margin-top: 16%;
+  }
+  /*************** COMPONENTS **************/
+  .bg_top_head .ensure .colf {
+    display: block;
+  }
+  #root-wrapper .registration_pop_up {
+    display: block !important;
+  }
+  /*******************
+INDEX
+*******************/
+  .discount-box-new {
+    width: 128px !important;
+    margin-top: -35% !important;
+  }
+  /********** CATEGORY ***********/
+  .main-container .banner_category_block > div:nth-of-type(1) {
+    width: 40% !important;
+  }
+  .main-container .banner_category_block > div:nth-of-type(2) {
+    width: 34% !important;
+  }
+  .main-container .banner_category_block > div:nth-of-type(3) {
+    width: 26% !important;
+  }
+  .main-container .banner_category_block > div img {
+    max-width: 100%;
+  }
+  .main-container .price-range-list:before,
+  .main-container .price-range-list:after {
+    content: " ";
+    display: table;
+  }
+  .main-container .price-range-list:after {
+    clear: both;
+  }
+  .main-container .price-range-list > ul {
+    float: left;
+    width: 50%;
+  }
+  .main-container .price-range-list > ul li {
+    margin: 5px 0px;
+    width: 100%;
+  }
+  /*********** DETAIL ************/
+  .product-view .product-secondary-column {
+    width: 98% !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    float: left !important;
+  }
+  .product-view .product-secondary-column .inner {
+    padding-left: 0px !important;
+  }
+  .product-view .product-secondary-column .inner:before,
+  .product-view .product-secondary-column .inner:after {
+    content: " ";
+    display: table;
+  }
+  .product-view .product-secondary-column .inner:after {
+    clear: both;
+  }
+  .product-view .product-secondary-column .inner .box-up-sell #upsell ul:before,
+  .product-view .product-secondary-column .inner .box-up-sell #upsell ul:after {
+    content: " ";
+    display: table;
+  }
+  .product-view .product-secondary-column .inner .box-up-sell #upsell ul:after {
+    clear: both;
+  }
+  .product-view .product-secondary-column .inner .box-up-sell #upsell ul li {
+    width: 23%;
+    float: left;
+    padding: 1%;
+    position: relative;
+  }
+  .product-view .product-secondary-column .inner .box-up-sell #upsell ul li .product-name {
+    vertical-align: top;
+  }
+  .product-view .product-secondary-column .inner .box-up-sell #upsell ul li .price-box {
+    width: 100%;
+  }
+  .product-view .product-secondary-column .inner .box-up-sell #upsell ul li .ratings {
+    position: absolute;
+    top: 72px;
+    right: 0px;
+    margin: 0px;
+  }
+  .box-description iframe {
+    max-width: 645px !important;
+  }
+}
+@media only screen and (max-width: 767px) {
+  /******************
+HEADER
+*******************/
+  .header-container .header-main .middle_head {
+    width: 100%;
+  }
+  .header-container .header-main .middle_head form#search_mini_form:before,
+  .header-container .header-main .middle_head form#search_mini_form:after {
+    content: " ";
+    display: table;
+  }
+  .header-container .header-main .middle_head form#search_mini_form:after {
+    clear: both;
+  }
+  .header-container .header-main .middle_head form#search_mini_form .form-search:before,
+  .header-container .header-main .middle_head form#search_mini_form .form-search:after {
+    content: " ";
+    display: table;
+  }
+  .header-container .header-main .middle_head form#search_mini_form .form-search:after {
+    clear: both;
+  }
+  .header-container .header-main .middle_head form#search_mini_form .form-search span {
+    font-size: 10px;
+  }
+  .header-container .top-links.links-wrapper-separators-left > img {
+    float: none;
+  }
+  /******************
+FOOTER
+*******************/
+  .footer-container .footer-top-container:before,
+  .footer-container .footer-top-container:after {
+    content: " ";
+    display: table;
+  }
+  .footer-container .footer-top-container:after {
+    clear: both;
+  }
+  .footer-container .leftnew {
+    width: 100%;
+  }
+  .footer-container .leftnew:before,
+  .footer-container .leftnew:after {
+    content: " ";
+    display: table;
+  }
+  .footer-container .leftnew:after {
+    clear: both;
+  }
+  .footer-container .rightnew {
+    width: 100%;
+    margin-top: 0px;
+  }
+  .footer-container .rightnew:before,
+  .footer-container .rightnew:after {
+    content: " ";
+    display: table;
+  }
+  .footer-container .rightnew:after {
+    clear: both;
+  }
+  .bg_top_head .ensure .colf {
+    display: none;
+  }
+  #root-wrapper .registration_pop_up {
+    display: none !important;
+  }
+  /************ CATEGORY *****************/
+  .main-container .banner_category_block > div:nth-of-type(1) {
+    width: 40% !important;
+  }
+  .main-container .banner_category_block > div:nth-of-type(2) {
+    width: 34% !important;
+  }
+  .main-container .banner_category_block > div:nth-of-type(3) {
+    width: 26% !important;
+  }
+  .main-container .banner_category_block > div img {
+    max-width: 100%;
+  }
+  .main-container .price-range-list:before,
+  .main-container .price-range-list:after {
+    content: " ";
+    display: table;
+  }
+  .main-container .price-range-list:after {
+    clear: both;
+  }
+  .main-container .price-range-list > ul {
+    float: left;
+    width: 50% !important;
+  }
+  .main-container .price-range-list > ul li {
+    margin: 5px 0px;
+    width: 100% !important;
+  }
+  /*********** CHECKOUT PAGE ***********/
+  ul#checkout-progress-state:before,
+  ul#checkout-progress-state:after {
+    content: " ";
+    display: table;
+  }
+  ul#checkout-progress-state:after {
+    clear: both;
+  }
+  ul#checkout-progress-state li {
+    width: 49%;
+    float: left;
+    margin-right: 0px;
+  }
+  ul.products-grid li.item .discount-box-new {
+    width: 100% !important;
+    top: 44%;
+    right: 5%;
+    margin: 0px !important;
+  }
+}
+/*********************
+DESKTOP
+This is the average viewing window. So Desktops, Laptops, and
+in general anyone not viewing on a mobile device. Here's where
+you can add resource intensive styles.
+*********************/
+@media only screen and (min-width: 1024px) {
+  /******************************************************************
+Site Name:
+Author:
+
+Stylesheet: Desktop Stylsheet
+
+This is the desktop size. It's larger than an iPad so it will only
+be seen on the Desktop.
+
+******************************************************************/
+  /*******************
+INDEX
+*******************/
+  /******** HEADER SLIDER *********/
+  .product-solo-slider-container {
+    background-size: inherit !important;
+    height: 287px !important;
+  }
+  .slideshow-sidebar .satmp_solo {
+    width: 279px;
+    height: 279px;
+  }
+  .slideshow-sidebar .satmp_solo img {
+    margin-left: 7%;
+    margin-top: 22%;
+  }
+  /******* INDEX PAGE *************/
+  div.content .itemslider-wrapper .itemslider .viewport ul.products-grid li.item {
+    width: 177px !important;
+    max-width: 177px !important;
+  }
+  div.content .itemslider-wrapper .itemslider .viewport ul.products-grid li.item .discount-box-new {
+    width: 173px;
+  }
+  /********* CATEGORY ***************/
+  .main-container .banner_category_block > div:nth-of-type(1) {
+    width: 40% !important;
+  }
+  .main-container .banner_category_block > div:nth-of-type(2) {
+    width: 34% !important;
+  }
+  .main-container .banner_category_block > div:nth-of-type(3) {
+    width: 26% !important;
+  }
+  .main-container .banner_category_block > div img {
+    max-width: 100%;
+  }
+  .main-container .price-range-list:before,
+  .main-container .price-range-list:after {
+    content: " ";
+    display: table;
+  }
+  .main-container .price-range-list:after {
+    clear: both;
+  }
+  .main-container .price-range-list > ul {
+    float: left;
+    width: 50%;
+  }
+  .main-container .price-range-list > ul li {
+    margin: 5px 0px;
+    width: 100%;
+  }
+  div.category-products ul.category-products-grid li.item {
+    max-width: 168px !important;
+    width: 168px;
+  }
+  div.category-products ul.category-products-grid li.item .discount-box-new {
+    width: 168px;
+  }
+  /********** BOTTOM CATEGORY *************/
+  #category-slider .controls .title {
+    left: 20px !important;
+  }
+  #category-slider .itemslider ul.slides li.item {
+    max-width: 127px;
+    width: 127px !important;
+  }
+  /*************** DETAILS PRODUCT ***********/
+  .box-up-sell #upsell li.products-grid {
+    position: relative;
+  }
+  .box-up-sell #upsell li.products-grid .product-name {
+    vertical-align: top;
+  }
+  .box-up-sell #upsell li.products-grid .price-box {
+    width: 100%;
+  }
+  .box-up-sell #upsell li.products-grid .ratings {
+    position: absolute;
+    top: 72px;
+    right: 0px;
+    margin: 0px;
+  }
+}
+/*********************
+LARGE VIEWING SIZE
+This is for the larger monitors and possibly full screen viewers.
+*********************/
+@media only screen and (min-width: 1117px) {
+  /******************************************************************
+Site Name:
+Author:
+
+Stylesheet: Desktop Stylsheet
+
+This is the desktop size. It's larger than an iPad so it will only
+be seen on the Desktop.
+
+******************************************************************/
+  /*******************
+INDEX
+*******************/
+  /******** HEADER SLIDER *********/
+  .product-solo-slider-container {
+    background-size: inherit !important;
+    height: 287px !important;
+  }
+  .slideshow-sidebar .satmp_solo {
+    width: 279px;
+    height: 279px;
+  }
+  .slideshow-sidebar .satmp_solo img {
+    margin-left: 7%;
+    margin-top: 22%;
+  }
+  /******* INDEX PAGE *************/
+  div.content .itemslider-wrapper .itemslider .viewport ul.products-grid li.item {
+    width: 278px!important;
+    max-width: 278px !important;
+  }
+  div.content .itemslider-wrapper .itemslider .viewport ul.category-products-grid li.item {
+    width: 190px !important;
+    max-width: 190px !important;
+    border:0;
+    padding:0 0 0 1px;
+    margin:0 !important;
+  }
+  div.content .itemslider-wrapper .itemslider .viewport ul.products-grid li.item .discount-box-new {
+    width: 173px;
+  }
+  /********* CATEGORY ***************/
+  .main-container .banner_category_block > div:nth-of-type(1) {
+    width: 40% !important;
+  }
+  .main-container .banner_category_block > div:nth-of-type(2) {
+    width: 34% !important;
+  }
+  .main-container .banner_category_block > div:nth-of-type(3) {
+    width: 26% !important;
+  }
+  .main-container .banner_category_block > div img {
+    max-width: 100%;
+  }
+  .main-container .price-range-list:before,
+  .main-container .price-range-list:after {
+    content: " ";
+    display: table;
+  }
+  .main-container .price-range-list:after {
+    clear: both;
+  }
+  .main-container .price-range-list > ul {
+    float: left;
+    width: 50%;
+  }
+  .main-container .price-range-list > ul li {
+    margin: 5px 0px;
+    width: 100%;
+  }
+  div.category-products {
+    width: 805px !important;
+  }
+  div.category-products ul.category-products-grid li.item {
+    max-width: 190px !important;
+    width: 190px;
+  }
+  div.category-products ul.category-products-grid li.item .discount-box-new {
+    width: 173px;
+  }
+  /********** BOTTOM CATEGORY *************/
+  #category-slider .controls .title {
+    left: 20px !important;
+  }
+  #category-slider .itemslider ul.slides li.item {
+    max-width: 128px;
+    width: 128px !important;
+  }
+  /*************** DETAILS PRODUCT ***********/
+  .box-up-sell #upsell li.products-grid {
+    position: relative;
+  }
+  .box-up-sell #upsell li.products-grid .product-name {
+    vertical-align: top;
+  }
+  .box-up-sell #upsell li.products-grid .price-box {
+    width: 100%;
+  }
+  .box-up-sell #upsell li.products-grid .ratings {
+    position: absolute;
+    top: 72px;
+    right: 0px;
+    margin: 0px;
+  }
+}
+/*********************
+RETINA (2x RESOLUTION DEVICES)
+This applies to the retina iPhone (4s) and iPad (2,3) along with
+other displays with a 2x resolution. You can also create a media
+query for retina AND a certain size if you want. Go Nuts.
+*********************/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
+  /******************************************************************
+Site Name: 
+Author: 
+
+Stylesheet: Retina Screens & Devices Stylesheet
+
+When handling retina screens you need to make adjustments, especially
+if you're not using font icons. Here you can add them in one neat
+place.
+
+******************************************************************/
+}
+/*********************
+PRINT STYLESHEET
+Feel free to customize this. Remember to add things that won't make
+sense to print at the bottom. Things like nav, ads, and forms should
+be set to display none.
+*********************/
