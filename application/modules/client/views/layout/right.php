@@ -333,10 +333,19 @@ foreach ($banner as $v) {
         <h3 class="title">Thống kê truy cập</h3>
 <!-- Histats.com  START  (standard)-->
 <script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
-<a href="http://www.histats.com" target="_blank" title="website hit counter" ><script  type="text/javascript" >
-try {Histats.start(1,2741725,4,4006,112,61,"00011111");
-Histats.track_hits();} catch(err){};
-</script></a>
+        <!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
+        <!-- Histats.com  START  (aync)-->
+        <script type="text/javascript">var _Hasync= _Hasync|| [];
+            _Hasync.push(['Histats.start', '1,3596019,4,1041,200,30,00011111']);
+            _Hasync.push(['Histats.fasi', '1']);
+            _Hasync.push(['Histats.track_hits', '']);
+            (function() {
+                var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+                hs.src = ('//s10.histats.com/js15_as.js');
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+            })();</script>
+        <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?3596019&101" alt="" border="0"></a></noscript>
+        <!-- Histats.com  END  -->
 <!-- Histats.com  END  -->        <br>
         <a href="http://inhome.vn/bodem.html" target="_blank" rel="nofollow">Google Analytics</a>
     </div>
