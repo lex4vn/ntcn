@@ -28,6 +28,9 @@ class product extends Admin {
         }
 
         $this->db->start_cache();
+        if (isset($_GET["title"]) && trim($_GET["title"]) != "") {
+            $this->db->like('title_link', cleanName(trim($_GET["title"])));
+        }
         if ($catids) {
             $this->db->where_in("catid", $catids);
         }
@@ -64,7 +67,9 @@ class product extends Admin {
             admin_redirect($this->data['module'] . $redirect);
         }
 
-        $base_url = '/index?limit=' . $limit . (isset($_GET["catid"]) ? "&catid=" . $_GET["catid"] : "");
+        $base_url = '/index?limit=' . $limit
+            . (isset($_GET["catid"]) ? "&catid=" . $_GET["catid"] : "")
+            . (isset($_GET["title"]) ? "&title=" . $_GET["title"] : "");;
         $conf = array(
             'base_url' => admin_url($this->router->class) . $base_url,
             'total_rows' => $total_rows,

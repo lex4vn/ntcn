@@ -4,14 +4,14 @@
         <span class="left">
             <ul>
                 <li class="left">
-                    <input placeholder="Nhập tiêu đề" name="title" value="<?php echo (isset($_GET['title']) ? $_GET['title'] : '');?>"/>
+                    <input id="txt-title" placeholder="Nhập tiêu đề" name="title" value="<?php echo (isset($_GET['title']) ? $_GET['title'] : '');?>"/>
                     <select name="catid" style="width: 200px;">
                         <option value="">-- Chọn danh mục --</option>
                         <?php foreach ($cats_tree as $k => $v): ?>                            
                             <option <?php echo(isset($_GET['catid']) && $_GET['catid'] == $v->id ? 'selected="selected"' : ''); ?> value="<?php echo $v->id; ?>"><?php echo $v->name; ?></option>
                         <?php endforeach; ?>
                     </select>
-                    <input type="submit" value="Apply" class="btn" />
+                    <input  id="btn-apply" type="submit" value="Apply" class="btn" />
                 </li>
             </ul>
         </span>
@@ -109,3 +109,10 @@
         </div>
     </form>  
 </div>
+<script>
+    $("#txt-title").keyup(function(event){
+        if(event.keyCode == 13){
+            $("#btn-apply").click();
+        }
+    });
+</script>
