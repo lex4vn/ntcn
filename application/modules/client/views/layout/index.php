@@ -96,7 +96,7 @@
                                         <div class="header-top clearer"></div>
                                         <div class="header-main v-grid-container">
                                             <div class="logo-wrapper v-grid no-gutter grid12-3">
-                                                <a href="<?php echo $uri_root ?>" title="Noithatcnm.com" class="logo"><strong>Noithatcnm.com</strong><img src="<?php echo img_link('logo.png') ?>" alt="Noithatcnm.com" /></a>
+                                                <a href="<?php echo $uri_root ?>" title="Noithatcnm.com" class="logo"><strong>Noithatcnm.com</strong><img src="<?php echo img_link('logo-noithat-cnm.png') ?>" alt="Noithatcnm.com" /></a>
                                             </div>
                                             <div class="middle_head">
                                                 <div class="search-wrapper-centered clearer v-grid no-gutter grid12-6  search-wrapper search-wrapper-mobile box_search_newdes">

@@ -840,7 +840,7 @@ ul.disc ul li { background:url(../images/bullet-small.png) 0 0 no-repeat; paddin
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 */
 .header .logo-wrapper { margin:10px 0; }
-.header .logo { display:inline-block;/* max-width:220px;*/ margin:0; text-decoration:none !important; margin: 15px 0 0 100px;}
+.header .logo { display:inline-block;/* max-width:220px;*/ margin:0; text-decoration:none !important; margin: 15px 0 10px 15px;}
 .header .logo strong { position:absolute; top:-999em; left:-999em; width:0; height:0; font-size:0; line-height:0; text-indent:-999em; overflow:hidden; }
 
 
