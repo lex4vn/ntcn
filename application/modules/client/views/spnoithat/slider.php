@@ -130,7 +130,7 @@ foreach ($banner as $v) {
                                                 ?>
                                                 <li class="item">
                                                     <div class="item-wrapper">
-                                                        <h3 class="product-code"><a href="<?php echo $url ?>" title="<?php echo $view_title ?>"><?php echo ($category->id == 19 || $category->pid == 19)? 'CĐT: ':'Mã SP: '; ?><?php echo $value->code ?></a></h3>
+                                                        <h3 class="product-code"><a href="<?php echo $url ?>" title="<?php echo $view_title ?>"><?php echo ($category->id == 19 || $category->pid == 19)? '':'Mã SP: '; ?><?php echo $value->code ?></a></h3>
                                                         <div class="product-image-wrapper" style="width:198px;">
                                                             <a href="<?php echo $url ?>" title="<?php echo $view_title ?>" class="product-image">
                                                                 <?php if ($count > 4) { ?>

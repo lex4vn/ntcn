@@ -58,7 +58,7 @@ echo '<h1 style="position: absolute; text-indent: -99999px;z-index:-1">Tìm ki�
                 <table width="155" border="0" cellspacing="3" cellpadding="3" align="center">
                     <tr>
                         <td colspan="2" height="35">
-                            <a href="<?php echo $url ?>" class="product-name"><?php echo ($category->id == 19 || $category->pid == 19)? 'CĐT: ':'Mã SP: '; ?><?php echo $value->code ?></a>
+                            <a href="<?php echo $url ?>" class="product-name"><?php echo ($category->id == 19 || $category->pid == 19)? '':'Mã SP: '; ?><?php echo $value->code ?></a>
                         </td>
                     </tr>
                     <tr>
