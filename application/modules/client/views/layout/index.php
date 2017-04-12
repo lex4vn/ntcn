@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi" lang="vi">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title><?php echo(isset($_meta['title']) ? $_meta['title'] : ''); ?></title>        
+        <title><?php echo(isset($_meta['title']) ? $_meta['title'] : ''); ?></title>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
         <meta name="description" content="<?php echo(isset($_meta['description']) ? $_meta['description'] : ''); ?>" />
         <meta name="keywords" content="<?php echo(isset($_meta['keywords']) ? $_meta['keywords'] : ''); ?>" />
@@ -71,13 +71,13 @@
         <?php if ($c_module == 'home') { ?>
             <h1 style="position: absolute; text-indent: -99999px"><?php echo(isset($_meta['title']) ? $_meta['title'] : ''); ?></h1>
         <?php } ?>
-        <div id="root-wrapper">    
+        <div id="root-wrapper">
             <div class="wrapper">
                 <div class="page">
                     <div class="header-container" id="top">
                         <div class="bgtop">
                         <div class="header-container2">
-                            <div class="header-container3">    
+                            <div class="header-container3">
                                 <div class="header container stretched">
                                     <div class="bg_top_head">
                                         <div class="ensure">
@@ -86,7 +86,7 @@
                                                 <ul class="links">
                                                     <li><a href="<?php echo $uri_root ?>">Sitemap</a></li>
                                                     <li><a href="<?php echo $uri_root ?>lien-he.html">Liên hệ</a></li>
-                                                    <li><a href="<?php echo $uri_root ?>tin-tuc.html">Tin tức</a></li>        
+                                                    <li><a href="<?php echo $uri_root ?>tin-tuc.html">Tin tức</a></li>
                                                     <li class="first log-in"><a href="<?php echo $uri_root ?>">Trang chủ</a></li>
                                                 </ul>
                                             </div>
@@ -140,9 +140,9 @@
                                                     </form>
                                                 </div>
                                             </div>
-                                        </div> 
-                                    </div> 
-                                </div> 
+                                        </div>
+                                    </div>
+                                </div>
 
                                 <div class="nav-container" id="sticky-nav-container">
                                     <div class="nav container clearer stretched show-bg">
@@ -275,9 +275,9 @@
                                             });
                                             //]]>
                                         </script>
-                                    </div> 
-                                </div> 
-                            </div> 
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                         </div>
                     </div>
@@ -299,8 +299,8 @@
                             </div>
 
                             <a href="#top" id="scroll-to-top">To top</a>
-                        </div> 
-                    </div> 
+                        </div>
+                    </div>
                     <script type="text/javascript">
                         //<![CDATA[
                         jQuery.fn.cdvnPopup.defaults.threshold = 960;
@@ -316,16 +316,16 @@
                                     else{
                                         $('#scroll-to-top').fadeOut();
                                     }
-			
+
                                 }, 500);
-			
+
                             });
-		
+
                             $('#scroll-to-top').click(function(){
                                 $("html, body").animate({scrollTop: 0}, 600, "easeOutCubic");
                                 return false;
                             });
-		
+
                             //Window size variables
                             var winWidth = $(window).width();
                             var winHeight = $(window).height();
@@ -345,7 +345,7 @@
                                                 flex.resize();
                                             }
                                         });
-					
+
                                         var slideshow = $('.the-slideshow').data('flexslider');
                                         if (slideshow != null){
                                             slideshow.resize();
@@ -357,7 +357,7 @@
                                 winHeight = winNewHeight;
                             }); //end: on resize
                         }); /* end: jQuery(){...} */
-	
+
                         jQuery(window).load(function(){
                             //Stickyjs : keep menu on top during scroll, on desktop only
                             var mobileTreshold = 960;
@@ -375,6 +375,6 @@
                     </script>
                 </div>
             </div>
-        </div> 
+        </div>
     </body>
 </html>

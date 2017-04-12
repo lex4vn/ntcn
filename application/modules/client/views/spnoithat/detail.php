@@ -44,7 +44,7 @@ $img = $img_view;
         <div class="col-main grid12-9 grid-col2-main in-col2 no-right-gutter">
             <div class="category-products">
                 <div class="page-title">
-                    <h1>Mã SP: <?php echo $row_news->code ?></h1>
+                    <h1><?php echo ($category->id == 19 || $category->pid == 19)? 'CĐT: ':'Mã SP: '; ?><?php echo $row_news->code ?></h1>
                 </div>
                 <div class="content-inner">
                     <table width="100%">
@@ -198,7 +198,7 @@ $img = $img_view;
                                         ?>
                                         <li class="item<?php echo $class ?>">
                                             <div class="item-wrapper">
-                                                <h3 class="product-code"><a href="<?php echo $url ?>" title="<?php echo $view_title ?>">Mã SP: <?php echo $v->code ?></a></h3>
+                                                <h3 class="product-code"><a href="<?php echo $url ?>" title="<?php echo $view_title ?>"><?php echo ($category->id == 19 || $category->pid == 19)? 'CĐT: ':'Mã SP: '; ?><?php echo $v->code ?></a></h3>
                                                 <div class="product-image-wrapper" style="width:190px;">
                                                     <a href="<?php echo $url ?>" title="<?php echo $view_title ?>" class="product-image">
                                                         <img width="190" height="127" class="lazy" src="<?php echo img_link('loader.gif') ?>" data-src="<?php echo $img ?>" alt="<?php echo $view_title ?>" />
@@ -208,7 +208,13 @@ $img = $img_view;
                                                 <div class="purchase">
                                                     <div class="price-box">
                                                         <span id="product-price-<?php echo $value->id ?>-new" class="regular-price">
-                                                            <span class="price"><?php echo number_format($v->source, 0, ',', '.') ?> ₫</span>                                    
+                                                            <span class="price">
+                                                                <?php if(empty($v->source) || $v->source == 0){ ?>
+                                                                    &nbsp;
+                                                                <?php }else{ ?>
+                                                                <?php echo number_format($v->source, 0, ',', '.') ?> ₫
+                                                                <?php } ?>
+                                                            </span>
                                                         </span>
                                                     </div>
                                                 </div>

@@ -311,7 +311,7 @@ foreach ($banner as $v) {
                                             ?>
                                             <li class="item">
                                                 <div class="item-wrapper">
-                                                    <h3 class="product-code"><a href="<?php echo $url ?>" title="<?php echo $view_title ?>">Mã SP: <?php echo $value->code ?></a></h3>
+                                                    <h3 class="product-code"><a href="<?php echo $url ?>" title="<?php echo $view_title ?>"><?php echo ($category->id == 19 || $category->pid == 19)? 'CĐT: ':'Mã SP: '; ?><?php echo $value->code ?></a></h3>
                                                     <div class="product-image-wrapper" style="width:250px;">
                                                         <a href="<?php echo $url ?>" title="<?php echo $view_title ?>" class="product-image">
                                                             <img width="250" height="167" src="<?php echo $img ?>" data-src="<?php echo $img ?>" alt="<?php echo $view_title ?>" />
@@ -321,7 +321,13 @@ foreach ($banner as $v) {
                                                     <div class="purchase">
                                                         <div class="price-box">
                                                             <span id="product-price-<?php echo $value->id ?>-new" class="regular-price">
-                                                                <span class="price"><?php echo number_format($value->source, 0, ',', '.') ?> ₫</span>                                    
+                                                                                                                            <span class="price">
+                                                                <?php if(empty($v->source) || $v->source == 0){ ?>
+                                                                    &nbsp;
+                                                                <?php }else{ ?>
+                                                                    <?php echo number_format($v->source, 0, ',', '.') ?> ₫
+                                                                <?php } ?>
+                                                            </span>
                                                             </span>
                                                         </div>
                                                     </div>
@@ -353,10 +359,10 @@ foreach ($banner as $v) {
 
                                 itemWidth: 188,
                                 minItems: 4,
-                                maxItems: 4,
+                                maxItems: 8,
                                                                                 
                                 move: 0            })
-                            .data("showItems", 4 )
+                            .data("showItems", 16 )
                             ; //IMPORTANT: don't remove semicolon!
                         });
                         //]]>
