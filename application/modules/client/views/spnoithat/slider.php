@@ -134,7 +134,7 @@ foreach ($banner as $v) {
                                                 <li class="item">
                                                     <div class="item-wrapper">
                                                         <h3 class="product-code"><a href="<?php echo $url ?>" title="<?php echo $view_title ?>"><?php echo ($category->id == 19 || $category->pid == 19)? '':'Mã SP: '; ?><?php echo $value->code ?></a></h3>
-                                                        <div class="product-image-wrapper" style="width:198px;">
+                                                        <div class="product-image-wrapper">
                                                             <a href="<?php echo $url ?>" title="<?php echo $view_title ?>" class="product-image">
                                                                 <?php if ($count > 4) { ?>
                                                                     <img width="100%" class="lazy" src="<?php echo img_link('loader.gif') ?>" data-src="<?php echo $img ?>" alt="<?php echo $view_title ?>" />
