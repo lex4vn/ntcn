@@ -101,7 +101,7 @@ foreach ($banner as $v) {
 
                     foreach ($product as $key => $item) {
                         if (count($item->data) < 4)
-                            //continue;
+                            continue;
                         $count++;
                         $key = $item->cate->id;
                         $url = product_link($item->cate->name_link);
