@@ -112,7 +112,6 @@ foreach ($banner as $v) {
                             <div class="slide-title"><a class="title" href="<?php echo $url ?>"><?php echo $name ?></a>
                                 <div class="controls">
                                     <div class="nav-wrapper gen-slider-arrows1"></div>
-                                    <a class="title" href="<?php echo $url ?>"><?php echo $name ?></a>
                                 </div>
                             </div>
 
