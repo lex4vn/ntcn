@@ -101,7 +101,7 @@ foreach ($banner as $v) {
 
                     foreach ($product as $key => $item) {
                         if (count($item->data) < 4)
-                            continue;
+                            //continue;
                         $count++;
                         $key = $item->cate->id;
                         $url = product_link($item->cate->name_link);
@@ -109,10 +109,14 @@ foreach ($banner as $v) {
                         ?>
                         <p>&nbsp;</p>
                         <div class="product-slider-container" id="product-slider-<?php echo $key ?>" style="background-color:<?php echo $background[$count - 1] ?>">
-                            <div class="controls">
-                                <div class="nav-wrapper gen-slider-arrows1"></div>
-                                <a class="title" href="<?php echo $url ?>"><?php echo $name ?></a>
+                            <div class="slide-title"><a class="title" href="<?php echo $url ?>"><?php echo $name ?></a>
+                                <div class="controls">
+                                    <div class="nav-wrapper gen-slider-arrows1"></div>
+                                    <a class="title" href="<?php echo $url ?>"><?php echo $name ?></a>
+                                </div>
                             </div>
+
+
                             <div class="content">
                                 <div class="itemslider-wrapper">
                                     <div class="itemslider itemslider-horizontal itemslider-responsive">
