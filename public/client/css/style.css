@@ -8419,13 +8419,13 @@ only screen and (min-device-pixel-ratio: 1.5)
 
 
     .container {
-        width:96%;
-    
-                                            max-width: 1117px;
+        /*width:96%;*/
+
+                                            /*max-width: 1117px;*/
                 
             }
 
-				.lte-ie8 .container { max-width:1117px; }
+				/*.lte-ie8 .container { max-width:1117px; }*/
 	
 
 
@@ -15171,4 +15171,8 @@ div.tag h3 {
 }
 .slider-category .product-slider-container .controls .title {
     font-family: 'Open Sans',sans-serif;
+}
+
+#banner_for_header p{
+	text-align: center;
 }
