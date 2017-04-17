@@ -49,7 +49,7 @@ foreach ($banner as $v) {
                         ?>
                         <li class="item<?php echo $class ?>">
                             <div class="item-wrapper">
-                                <h3 class="product-code"><a href="<?php echo $url ?>" title="<?php echo $view_title ?>"><?php echo ($category->id == 19 || $category->id == 93 || $category->id == 98 || $category->id == 101 || $category->pid == 19)? '':'Mã SP: '; ?><?php echo $value->code ?></a></h3>
+                                <h3 class="product-code"><a href="<?php echo $url ?>" title="<?php echo $view_title ?>"><?php echo $category->id;echo ($category->id == 19 || $category->id == 93 || $category->id == 98 || $category->id == 101 || $category->pid == 19)? '':'Mã SP: '; ?><?php echo $value->code ?></a></h3>
                                 <div class="product-image-wrapper" style="width:198px;">
                                     <a href="<?php echo $url ?>" title="<?php echo $view_title ?>" class="product-image">
                                         <?php if ($i > 11) { ?>
