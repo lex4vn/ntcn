@@ -114,7 +114,7 @@ class spnoithat extends Client {
         $this->db->where("n.active", "yes");
         $this->db->stop_cache();
 
-        $rows = $this->db->select("n.id,n.title,n.title_link,n.image,n.code,n.source")->from("product AS n")
+        $rows = $this->db->select("n.id,n.title,n.title_link,n.image,n.code,n.source,n.catid")->from("product AS n")
                 ->join('product_categories AS c', 'n.catid = c.id', 'left')
                 ->order_by("n.order", "DESC")
                 ->order_by("n.id", "DESC")
