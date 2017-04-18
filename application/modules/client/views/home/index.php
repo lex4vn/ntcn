@@ -224,10 +224,10 @@ foreach ($banner as $v) {
                                                 <div class="item-wrapper">
                                                     <div class="product-image-wrapper imgnoresize" style="width:250px;">
                                                         <a href="<?php echo $url ?>" title="<?php echo $view_title ?>" class="product-image">
-                                                            <?php if ($count > 2) { ?>
-                                                                <img width="250" src="<?php echo $img ?>" data-src="<?php echo $img ?>" alt="<?php echo $view_title ?>" />
+                                                            <?php if ($count > 16) { ?>
+                                                                <img width="220" src="<?php echo $img ?>" data-src="<?php echo $img ?>" alt="<?php echo $view_title ?>" />
                                                             <?php } else { ?>
-                                                                <img width="250" src="<?php echo $img ?>" alt="<?php echo $view_title ?>" />
+                                                                <img width="220" src="<?php echo $img ?>" alt="<?php echo $view_title ?>" />
                                                             <?php } ?>
                                                         </a>
                                                     </div> 
