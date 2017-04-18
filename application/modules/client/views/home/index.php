@@ -258,12 +258,12 @@ foreach ($banner as $v) {
                                 controlNav: false,
                                 controlsContainer: "#product-slider-<?php echo $key ?> .nav-wrapper",
 
-                                itemWidth: 300,
+                                itemWidth: 188,
                                 minItems: 4,
                                 maxItems: 8,
                                                                                 
                                 move: 0            })
-                            .data("showItems", 8 )
+                            .data("showItems", 16 )
                             ; //IMPORTANT: don't remove semicolon!
 
                         });
