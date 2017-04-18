@@ -8420,7 +8420,10 @@ only screen and (min-device-pixel-ratio: 1.5)
 */
 
 
-
+.left {
+	width: 68% !important;
+	margin-left: 2%;
+}
     .container {
         /*width:96%;*/
 
