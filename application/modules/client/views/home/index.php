@@ -288,10 +288,10 @@ foreach ($banner as $v) {
                     ?>
                     <p></p>
                     <div class="product-slider-container" id="product-slider2-<?php echo $key ?>" style="background-color:<?php echo $background[$count - 1] ?>">
-                        <div class="slide-title"><a class="title" href="<?php echo $url ?>"><?php echo $name ?></a>
+                        <div class="slide-title">
                         <div class="controls">
                             <div class="nav-wrapper gen-slider-arrows1"></div>
-
+                            <a class="title" href="<?php echo $url ?>"><?php echo $name ?></a>
                         </div>
                         </div>
                         <div class="content">
