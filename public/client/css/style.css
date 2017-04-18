@@ -8511,6 +8511,10 @@ only screen and (min-device-pixel-ratio: 1.5)
 	li.news .time {
 		right: 15px !important;
 	}
+
+	.desc, .desc p {
+		padding: 0 10px;
+	}
 	.nested-container { width:100%; margin-left:auto; }
 	
 	/* Stretch all grid units */
