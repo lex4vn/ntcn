@@ -8506,6 +8506,7 @@ only screen and (min-device-pixel-ratio: 1.5)
 		width: 100% !important;
 		margin: 0 !important;
 	}
+	.main-container{padding:0 10px !important;}
 	.container {
 		width:100%; }
 	.left h2 a {
@@ -8514,7 +8515,9 @@ only screen and (min-device-pixel-ratio: 1.5)
 	li.news .time {
 		right: 15px !important;
 	}
-
+	.desc_inhome2 {
+		width: 100% !important;
+	}
 	.desc, .desc p {
 		padding: 0 10px;
 	}
