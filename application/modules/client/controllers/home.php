@@ -28,7 +28,7 @@ class Home extends Client {
                             ->where_in("catid", $catids)
                             ->order_by("order", "DESC")
                             ->order_by("id", "DESC")
-                            ->limit(8, 0)
+                            ->limit(40, 0)
                             ->get()
                             ->result();
                 }
@@ -48,7 +48,7 @@ class Home extends Client {
                             ->where_in("catid", $catids)
                             ->order_by("order", "DESC")
                             ->order_by("id", "DESC")
-                            ->limit(8, 0)
+                            ->limit(40, 0)
                             ->get()
                             ->result();
                 }

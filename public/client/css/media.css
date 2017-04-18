@@ -661,7 +661,7 @@ INDEX
     width: 100%;
   }
   div.category-products {
-    width: 805px !important;
+    /*width: 805px !important;*/
   }
   div.category-products ul.category-products-grid li.item {
     max-width: 190px !important;
