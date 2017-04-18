@@ -8496,15 +8496,21 @@ only screen and (min-device-pixel-ratio: 1.5)
 	
 	/* Grid units below 768px screen size are 100% wide with no margin - compensate margin with padding */
 	.left {
-		width: 100%;
-		margin: 0;
+		width: 100% !important;
+		margin: 0 !important;
 	}
 	.right{
-		width: 100%;
-		margin: 0;
+		width: 100% !important;
+		margin: 0 !important;
 	}
 	.container {
-		width:100%; padding-left:10px; padding-right:10px; }
+		width:100%; }
+	.left h2 a {
+		width: 67% !important;
+	}
+	li.news .time {
+		right: 15px !important;
+	}
 	.nested-container { width:100%; margin-left:auto; }
 	
 	/* Stretch all grid units */

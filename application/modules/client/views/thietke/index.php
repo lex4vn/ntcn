@@ -54,7 +54,7 @@ foreach ($banner as $v) {
                         </h2>
                         <?php if ($v->image != '') { ?>
                             <a title="<?php echo $view_title ?>" href="<?php echo $url ?>" class="thumb">
-                                <img title="<?php echo $view_title ?>" alt="<?php echo $view_title ?>" src="<?php echo $img ?>" style="max-width:735px" />
+                                <img title="<?php echo $view_title ?>" alt="<?php echo $view_title ?>" src="<?php echo $img ?>" />
                             </a>
                         <?php }
                         if ($v->chudautu != '') { ?>
