@@ -47,7 +47,7 @@ if (isset($sizes[0]) && $row_news->image != '')
                                 </span>
                             </h1>
                             <?php if ($row_news->image != '') { ?>
-                                <a class="lightbox-group" href="<?php echo $img_view ?>"><img style="max-width:735px" src="<?php echo $img_view ?>" alt="<?php echo $view_title ?>" border="0" /></a>
+                                <a class="lightbox-group" href="<?php echo $img_view ?>"><img src="<?php echo $img_view ?>" alt="<?php echo $view_title ?>" border="0" /></a>
                             <?php }if ($row_news->chudautu != '') { ?>
                                 <br/>
                                 <div class="desc desc_inhome bold"><a title="<?php echo $view_title ?>" href="<?php echo $url ?>"><?php echo $row_news->title ?></a>: <?php echo $row_news->short_desc ?></div>
