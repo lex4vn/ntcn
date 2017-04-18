@@ -23,7 +23,7 @@ class Home extends Client {
                         $catids[] = $v->id;
                     }
 
-                    $client_data['product'][$value->id] = $this->db->select("id,title,title_link,image,source,code")->from("product")
+                    $client_data['product'][$value->id] = $this->db->select("id,title,title_link,image,source,code,catid")->from("product")
                             ->where('active', 'yes')
                             ->where_in("catid", $catids)
                             ->order_by("order", "DESC")
