@@ -260,10 +260,10 @@ foreach ($banner as $v) {
 
                                 itemWidth: 300,
                                 minItems: 4,
-                                maxItems: 4,
+                                maxItems: 8,
                                                                                 
                                 move: 0            })
-                            .data("showItems", 4 )
+                            .data("showItems", 8 )
                             ; //IMPORTANT: don't remove semicolon!
 
                         });

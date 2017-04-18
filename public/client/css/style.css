@@ -8518,8 +8518,8 @@ only screen and (min-device-pixel-ratio: 1.5)
 	.desc_inhome2 {
 		width: 100% !important;
 	}
-	.desc, .desc p {
-		padding: 0 10px;
+	ul.pkpctkk_kieu {
+		width: 100% !important;
 	}
 	#search_mini_form .form-search .input-text {
 		width: 60% !important;
@@ -8528,13 +8528,14 @@ only screen and (min-device-pixel-ratio: 1.5)
 		width: 40% !important;
 	}
 	.search-wrapper-mobile .form-search {
-		max-width: 100%;
+		max-width: 100% !important;
 	}
+
 	.middle_head .button_search {
-		width: 40% !important;
+		width: 30% !important;
 	}
 	.form-search-control{
-		width: 60% !important;
+		width: 70% !important;
 	}
 	.nested-container { width:100%; margin-left:auto; }
 	
