@@ -315,7 +315,7 @@ foreach ($banner as $v) {
                                                             <?php echo $value->code == ''? '&nbsp;':$value->code ?></a></h3>
                                                     <div class="product-image-wrapper" style="width:250px;">
                                                         <a href="<?php echo $url ?>" title="<?php echo $view_title ?>" class="product-image">
-                                                            <img width="250" height="167" src="<?php echo $img ?>" data-src="<?php echo $img ?>" alt="<?php echo $view_title ?>" />
+                                                            <img style="width: 24%;height: auto" src="<?php echo $img ?>" data-src="<?php echo $img ?>" alt="<?php echo $view_title ?>" />
                                                         </a>
                                                     </div> 
                                                     <div class="product-name"><a href="<?php echo $url ?>" title="<?php echo $view_title ?>"><?php echo $value->title ?></a></div>
