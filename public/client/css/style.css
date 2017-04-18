@@ -14786,7 +14786,8 @@ h1.product-title,.pic h3.title,.pn h3.title,.pk_tintuchd a.title,.tin_tuc_hd h3.
 .pk_tintuchd a.title{display:block}
 
 .left {
-    width: 735px;
+    width: 74%;
+	margin-left: 2%;
 }
 ul.news {
     color: #000000;
@@ -14794,7 +14795,7 @@ ul.news {
     line-height: 15px;
     padding-bottom: 0;
     position: relative;
-    width: 735px;
+    width: 100%;
     overflow:hidden;
 }
 li.news:first-child {
@@ -14913,7 +14914,9 @@ li.news .desc a,li.news .desc a{color:#010101}
     padding-left: 0;
     padding-right: 0;
     right: 0;
-    width: 361px;
+    min-width: 361px;
+	width: 20%;
+	margin-right: 2%;
 }
 .right .pic {
     margin-bottom: 17px;
@@ -14927,7 +14930,7 @@ li.news .desc a,li.news .desc a{color:#010101}
     font-family: Arial;
 }
 .right h3.title, .right a.title {
-    width:340px;margin-bottom:10px
+    margin-bottom:10px
 }
 span.tt { display: none; vertical-align: middle; height: 30%; width: 100%; text-align: left; position: absolute; left: 0; bottom: 0; background: url(../images/over_bg.png); color: #fff; float: none; font-weight:normal ;font-size:11px}
 .thumb1, .thumb2, .thumb3 { position: relative; }
