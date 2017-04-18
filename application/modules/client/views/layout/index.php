@@ -108,7 +108,7 @@
                                                             <div class="button_search">
                                                                 <button type="submit" title="Tìm kiếm" class="button"><span><span>Tìm kiếm</span></span></button>
                                                             </div>
-                                                            <div style="float:right">
+                                                            <div class="form-search-control" style="float:right">
                                                                 <div class="selectParent">
                                                                     <select name="c">
                                                                         <option value="">Chọn danh mục</option>

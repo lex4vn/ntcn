@@ -8521,6 +8521,21 @@ only screen and (min-device-pixel-ratio: 1.5)
 	.desc, .desc p {
 		padding: 0 10px;
 	}
+	#search_mini_form .form-search .input-text {
+		width: 60% !important;
+	}
+	#search_mini_form .form-search .selectParent {
+		width: 40% !important;
+	}
+	.search-wrapper-mobile .form-search {
+		max-width: 100%;
+	}
+	.middle_head .button_search {
+		width: 40% !important;
+	}
+	.form-search-control{
+		width: 60% !important;
+	}
 	.nested-container { width:100%; margin-left:auto; }
 	
 	/* Stretch all grid units */
