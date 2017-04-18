@@ -133,7 +133,7 @@ foreach ($banner as $v) {
                                                 ?>
                                                 <li class="item">
                                                     <div class="item-wrapper">
-                                                        <h3 class="product-code"><a href="<?php echo $url ?>" title="<?php echo $view_title ?>"><?php echo ($value->catid == 19 || $value->catid == 93 || $value->catid == 98 || $value->catid == 101)? '':'Mã SP: '; ?><?php echo $value->code ?></a></h3>
+                                                        <h3 class="product-code"><a href="<?php echo $url ?>" title="<?php echo $view_title ?>"><?php echo ($value->catid == 19 || $value->catid == 93 || $value->catid == 98 || $value->catid == 101)? '':'Mã SP: '; ?><?php echo $value->code == ''? '&nbsp;':$value->code ?></a></h3>
                                                         <div class="product-image-wrapper">
                                                             <a href="<?php echo $url ?>" title="<?php echo $view_title ?>" class="product-image">
                                                                 <?php if ($count > 4) { ?>
